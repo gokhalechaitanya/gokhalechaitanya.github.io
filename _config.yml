@@ -2,14 +2,14 @@ title:            Explore
 description:      This is a personal website of Chaitanya S. Gokhale
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-url:              http://localhost:4000
+url:              http://gokhalechaitanya.github.io
 
 # Owner/author information
 owner:
   name:           Chaitanya S. Gokhale
   avatar:         avatar.jpg
   bio:            "An explorer by nature and a scientist by profession. Currently based in ..."
-  email:          my@email.com
+  email:          gokhale@evolbio.mpg.de
   # Social networking links used in footer. Update and remove as you like.
   #twitter:        
   facebook:       
