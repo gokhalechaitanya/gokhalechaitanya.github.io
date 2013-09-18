@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://localhost:4000</loc>
+    </url>
+    
+    
+    <url>
+        <loc>http://localhost:4000/Paper10</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/Paper9</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/Paper8</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/Paper7</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/Paper6</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/Paper5</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/Paper4</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/Paper3</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/Paper2</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/Paper1</loc>
+    </url>
+    
+</urlset>
