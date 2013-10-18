@@ -16,6 +16,7 @@ share: true
 
 ### Interactive demonstration of the effect of multiple players on the Red King phenomena.
 
+The demonstration is based on the paper on [mutualism and multiplayer evolutionary games]({% post_url 2012-09-12-Paper8 %}).
 Here is the CDF as hosted on the [Wolfram Website](http://demonstrations.wolfram.com/MutualismAndEvolutionaryMultiplayerGamesRevisitingTheRedKing/).
 You will probably need Mathematica or the [Wolfram CDF player](http://www.wolfram.com/cdf-player/) to be installed to view the following file
 
