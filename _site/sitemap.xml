@@ -1,48 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://localhost:4000</loc>
+        <loc></loc>
     </url>
     
     
     <url>
-        <loc>http://localhost:4000/Paper10</loc>
+        <loc>/Paper11</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/Paper9</loc>
+        <loc>/Paper11Wolfram</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/Paper8</loc>
+        <loc>/code-highlighting-post</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/Paper7</loc>
+        <loc>/Paper10</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/Paper6</loc>
+        <loc>/Paper9</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/Paper5</loc>
+        <loc>/Paper8</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/Paper4</loc>
+        <loc>/Paper7</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/Paper3</loc>
+        <loc>/Paper6</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/Paper2</loc>
+        <loc>/Paper5</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/Paper1</loc>
+        <loc>/Paper4</loc>
+    </url>
+    
+    <url>
+        <loc>/Paper3</loc>
+    </url>
+    
+    <url>
+        <loc>/Paper2</loc>
+    </url>
+    
+    <url>
+        <loc>/Paper1</loc>
     </url>
     
 </urlset>
