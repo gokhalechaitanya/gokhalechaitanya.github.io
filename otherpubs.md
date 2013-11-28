@@ -11,7 +11,7 @@ So here is some writing which never suffered (?) the peer review process.
 My name is Chaitanya (first name) [Gokhale](http://en.wikipedia.org/wiki/Gokhale) (last name). 
 ---
 
-* [Peak XV](http://localhost:4000/peerfree/XV/)
+* [Peak XV](http://gokhalechaitanya.github.io/peerfree/XV/)
 * Origin of Life and Evolutionary Games 
 ___
 
