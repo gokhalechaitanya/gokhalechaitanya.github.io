@@ -20,7 +20,7 @@ Below is a web version of my curriculum vitae which can also be downloaded as a 
 
 * BMC Ecology Image Competition: Theoretical Ecology and Models
 * Otto Hahn Medal
-* Partial Grant from the DFG Priority Programme [`Probabilistic Structures in Evolution'](http://www.dfg-spp1590.de) (SPP 1590)
+* Principal Investigator - Partial Grant from the DFG Priority Programme [`Probabilistic Structures in Evolution'](http://www.dfg-spp1590.de) (SPP 1590)
 
 ___
 
