@@ -8,6 +8,7 @@ image:
   credit: rontalk
   creditlink: http://rontalk.com
 share: true
+comments: true
 ---
 
 Why does man climb mountains? There are a number of reasons and urges but it is not possible to comprehend all of them; the intensity of challenge, the excitement or love of adventure is the usual answer; or is it the urge to break free from the limits and disciplines of organized society? 
