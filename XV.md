@@ -11,6 +11,8 @@ share: true
 comments: true
 ---
 
+This piece was written in the year 2003 more out of self-interest rather than an exposition in writing.
+
 Why does man climb mountains? There are a number of reasons and urges but it is not possible to comprehend all of them; the intensity of challenge, the excitement or love of adventure is the usual answer; or is it the urge to break free from the limits and disciplines of organized society? 
 Realization of the Supreme Power, being close to Nature or the companionship and enduring friendships which the mountains offer? 
 
@@ -36,7 +38,7 @@ On the right is the towering Ama Dablam right over the valley of Imja Khola, a s
 
 At high altitudes the environment is quite different from that what people are normally accustomed to. The thinner atmosphere brings breathing problems, upsets metabolism and absorption of oxygen and food in body diminishes. The blood becomes thicker to compensate this defect. Such other factors are included in the process of acclimatisation.
 
-The Base camp is set generally under the shadow of Khumbutse and the Lho-La. This area is probably the world's greatest amhphitheater. Facing the Everest from the left, Pumori (23,442 ft), Lingtren (21,972 ft), Khumbutse (21,785 ft), Changtse (24,780 ft), the West shoulder of Everest, and Nuptse form a semicircle of snow white galleries rising in the azure blue sky. 
+The Base camp is set generally under the shadow of Khumbutse and the Lho-La. This area is probably the world's greatest amphitheatre. Facing the Everest from the left, Pumori (23,442 ft), Lingtren (21,972 ft), Khumbutse (21,785 ft), Changtse (24,780 ft), the West shoulder of Everest, and Nuptse form a semicircle of snow white galleries rising in the azure blue sky. 
 
 
 The way up, the Khumbu glacier, leads to a semicircular dead end. The hanging tongues of ice, peeling off the walls constantly, bombard the slopes with constantly shattering rock hard ice. This is the "Icefall". From a rim, over 20,000 ft, the Icefall rumbles in a continuous, thick cascade of solid ice, slowly, dangerously and deceptively, constantly shaking and trembling. 
