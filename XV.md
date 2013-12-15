@@ -19,7 +19,7 @@ Realization of the Supreme Power, being close to Nature or the companionship and
 Whatever the answer may be, it is no mundane activity and is without any utilitarian gain or material profit. 
 The extraordinary struggle of man with rocks and ice, exhaustion and isolation and physical and mental strain add to this joy, especially when it is all over. Though, even after the mountains have been climbed; summits gained and goals reached, mountains always remain bigger than us.
 
-Everest was discovered during the trigonometrical survey of Himalayas by Sir George Everest, the then Surveyor General of India in 1841. Eleven years after the discovery when the data was compiled and it was found out that the Peak XV, Everest, was 29,000 feet high -- the highest in the world. The great giants of the Himalayas-the seven Octasenders (over 8000 meters) and Everest, highest of them all, spurned attempt after attempt.
+Everest was discovered during the trigonometrical survey of Himalayas initiated by Sir George Everest, the then Surveyor General of India in 1841. Eleven years after the discovery when the data was compiled and it was found out that the Peak XV, Everest, was 29,000 feet high -- the highest in the world. The great giants of the Himalayas-the seven Octasenders (over 8000 meters) and Everest, highest of them all, spurned attempt after attempt.
 
 Darjeeling, where the Himalayan Mountaineering Institute is situated, presents an unparalleled view of the snowcapped Himalayas. At 45 miles through air from Darjeeling, lies the third highest peak in the world, the Kanchenjunga. A few miles from the town is Tiger Hill, from where on a clear morning, one can see the summit of the Everest, distinguished by its singular but imperial plume.
 
