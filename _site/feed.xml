@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2013-11-28T20:03:21+01:00</updated>
+<updated>2014-01-05T16:51:48+01:00</updated>
 <id>/</id>
 <author>
   <name>Chaitanya S. Gokhale</name>
@@ -35,7 +35,17 @@
 
 &lt;hr /&gt;
 
-&lt;h2 id=&quot;i-am-still-writing-this-up---&quot;&gt;I am still writing this up . . .&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&amp;#8220;Now here you see, it takes all the running you can do, to keep in the same place. If you want to get somewhere else, you must run at least twice as fast as that&amp;#8221; (The Red Queen)
+&amp;#8211; Lewis Carroll (Through the Looking-Glass)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Host-parasite coevolution is generally believed to follow Red Queen dynamics consisting of ongoing oscillations in the frequencies of interacting host and parasite alleles. This belief is founded on previous theoretical work, which assumes infinite or constant population size. To what extent are such sustained oscillations realistic?&lt;/p&gt;
+
+&lt;p&gt;Acknowledging two critical pieces of realism we show that such Red Queen oscillations cannot be sustained over time: (i) population size fluctuations, caused by the antagonism of the interaction in concordance with the Lotka-Volterra relationship; and (ii) stochasticity, acting in any finite population. Together, these two factors cause fast allele fixation. 
+Furthermore fixation is not restricted to common alleles, as expected from drift, but also seen for originally rare alleles under a wide parameter space, potentially facilitating spread of novel variants.&lt;/p&gt;
+
+&lt;p&gt;Our results call for a paradigm shift in our understanding of host-parasite coevolution, strongly suggesting that these are driven by recurrent selective sweeps rather than continuous allele oscillations.&lt;/p&gt;
 
 &lt;div&gt;&lt;a href=&quot;http://www.biomedcentral.com/1471-2148/13/254/abstract&quot; class=&quot;btn btn-success&quot;&gt;Link to Paper&lt;/a&gt;&lt;/div&gt;
 
@@ -75,118 +85,6 @@ You will probably need Mathematica or the &lt;a href=&quot;http://www.wolfram.co
 
 
 <entry>
-  <title type="html"><![CDATA[Syntax Highlighting Post]]></title>
-  <link>/code-highlighting-post</link>
-  <id>/code-highlighting-post</id>
-  <updated>2013-08-20T00:00:00-00:00</updated>
-  <published>2013-08-16T00:00:00+02:00</published>
-  
-  <author>
-    <name>Chaitanya S. Gokhale</name>
-    <uri></uri>
-    <email>gokhale@evolbio.mpg.de</email>
-  </author>
-  <content type="html">&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Syntax_highlighting&quot;&gt;Syntax highlighting&lt;/a&gt; is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.&lt;/p&gt;
-
-&lt;h3 id=&quot;pygments-code-blocks&quot;&gt;Pygments Code Blocks&lt;/h3&gt;
-
-&lt;p&gt;To modify styling and highlight colors edit &lt;code&gt;/assets/less/pygments.less&lt;/code&gt; and compile &lt;code&gt;main.less&lt;/code&gt; with your favorite preprocessor. Or edit &lt;code&gt;main.css&lt;/code&gt; if that&amp;#8217;s your thing, the classes you want to modify all begin with &lt;code&gt;.highlight&lt;/code&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;css&quot;&gt;&lt;span class=&quot;nf&quot;&gt;#container&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;float&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;left&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;-240px&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Line numbering enabled:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;html&quot;&gt;&lt;span class=&quot;lineno&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;nav&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;pagination&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;role=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;navigation&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;2&lt;/span&gt;     {% if page.previous %}
-&lt;span class=&quot;lineno&quot;&gt;3&lt;/span&gt;         &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;{{ site.url }}{{ page.previous.url }}&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;btn&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;{{ page.previous.title }}&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Previous article&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;4&lt;/span&gt;     {% endif %}
-&lt;span class=&quot;lineno&quot;&gt;5&lt;/span&gt;     {% if page.next %}
-&lt;span class=&quot;lineno&quot;&gt;6&lt;/span&gt;         &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;{{ site.url }}{{ page.next.url }}&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;btn&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;title=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;{{ page.next.title }}&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Next article&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;lineno&quot;&gt;7&lt;/span&gt;     {% endif %}
-&lt;span class=&quot;lineno&quot;&gt;8&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/nav&amp;gt;&lt;/span&gt;&lt;span class=&quot;c&quot;&gt;&amp;lt;!-- /.pagination --&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;module&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;Jekyll&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;TagIndex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Page&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;initialize&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dir&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@site&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@base&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@dir&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dir&lt;/span&gt;
-      &lt;span class=&quot;vi&quot;&gt;@name&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;index.html&amp;#39;&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;process&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read_yaml&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;File&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;_layouts&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;tag_index.html&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;tag&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;
-      &lt;span class=&quot;n&quot;&gt;tag_title_prefix&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;tag_title_prefix&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Tagged: &amp;#39;&lt;/span&gt;
-      &lt;span class=&quot;n&quot;&gt;tag_title_suffix&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;site&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;config&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;tag_title_suffix&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;&amp;amp;#8211;&amp;#39;&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;title&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag_title_prefix&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-      &lt;span class=&quot;nb&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;description&amp;#39;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;An archive of posts tagged &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;tag&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.&amp;quot;&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;standard-code-block&quot;&gt;Standard Code Block&lt;/h3&gt;
-
-&lt;pre&gt;&lt;code&gt;&amp;lt;nav class=&quot;pagination&quot; role=&quot;navigation&quot;&amp;gt;
-    {% if page.previous %}
-        &amp;lt;a href=&quot;{{ site.url }}{{ page.previous.url }}&quot; class=&quot;btn&quot; title=&quot;{{ page.previous.title }}&quot;&amp;gt;Previous article&amp;lt;/a&amp;gt;
-    {% endif %}
-    {% if page.next %}
-        &amp;lt;a href=&quot;{{ site.url }}{{ page.next.url }}&quot; class=&quot;btn&quot; title=&quot;{{ page.next.title }}&quot;&amp;gt;Next article&amp;lt;/a&amp;gt;
-    {% endif %}
-&amp;lt;/nav&amp;gt;&amp;lt;!-- /.pagination --&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&quot;fenced-code-blocks&quot;&gt;Fenced Code Blocks&lt;/h3&gt;
-
-&lt;p&gt;To modify styling and highlight colors edit &lt;code&gt;/assets/less/coderay.less&lt;/code&gt; and compile &lt;code&gt;main.less&lt;/code&gt; with your favorite preprocessor. Or edit &lt;code&gt;main.css&lt;/code&gt; if that&amp;#8217;s your thing, the classes you want to modify all begin with &lt;code&gt;.coderay&lt;/code&gt;. Line numbers and a few other things can be modified in &lt;code&gt;_config.yml&lt;/code&gt; under &lt;code&gt;coderay&lt;/code&gt;.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;#container {
-    float: left;
-    margin: 0 -240px 0 0;
-    width: 100%;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-html&quot;&gt;&amp;lt;nav class=&quot;pagination&quot; role=&quot;navigation&quot;&amp;gt;
-    {% if page.previous %}
-        &amp;lt;a href=&quot;{{ site.url }}{{ page.previous.url }}&quot; class=&quot;btn&quot; title=&quot;{{ page.previous.title }}&quot;&amp;gt;Previous article&amp;lt;/a&amp;gt;
-    {% endif %}
-    {% if page.next %}
-        &amp;lt;a href=&quot;{{ site.url }}{{ page.next.url }}&quot; class=&quot;btn&quot; title=&quot;{{ page.next.title }}&quot;&amp;gt;Next article&amp;lt;/a&amp;gt;
-    {% endif %}
-&amp;lt;/nav&amp;gt;&amp;lt;!-- /.pagination --&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-ruby&quot;&gt;module Jekyll
-  class TagIndex &amp;lt; Page
-    def initialize(site, base, dir, tag)
-      @site = site
-      @base = base
-      @dir = dir
-      @name = 'index.html'
-      self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'tag_index.html')
-      self.data['tag'] = tag
-      tag_title_prefix = site.config['tag_title_prefix'] || 'Tagged: '
-      tag_title_suffix = site.config['tag_title_suffix'] || '&amp;amp;#8211;'
-      self.data['title'] = &quot;#{tag_title_prefix}#{tag}&quot;
-      self.data['description'] = &quot;An archive of posts tagged #{tag}.&quot;
-    end
-  end
-end
-&lt;/code&gt;&lt;/pre&gt;
-
-  &lt;p&gt;&lt;a href=&quot;/code-highlighting-post&quot;&gt;Syntax Highlighting Post&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;&quot;&gt;Explore&lt;/a&gt; on August 16, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
   <title type="html"><![CDATA[Multiplayer games - Dynamics]]></title>
   <link>/Paper10</link>
   <id>/Paper10</id>
@@ -208,7 +106,7 @@ end
 
 &lt;hr /&gt;
 
-&lt;h2 id=&quot;i-am-still-writing-this-up---&quot;&gt;I am still writing this up . . .&lt;/h2&gt;
+&lt;p&gt;William D. Hamilton famously stated that “human life is a many person game and not just a disjoined collection of two person games”. However, most of the theoretical results in evolutionary game theory have been developed for two player games. In spite of a multitude of examples ranging from humans to bacteria, multi-player games have received less attention than pairwise games due to their inherent complexity. Such complexities arise from the fact that group interactions cannot always be considered as a sum of multiple pairwise interactions. Mathematically, multi-player games provide a natural way to introduce non-linear, polynomial fitness functions into evolutionary game theory, whereas pairwise games lead to linear fitness functions. Similarly, studying finite populations is a natural way of introducing intrinsic stochasticity into population dynamics. While these topics have been dealt with individually, few have addressed the combination of finite populations and multi-player games so far. We are investigating the dynamical properties of evolutionary multi-player games in finite populations. Properties of the fixation probability and fixation time, which are relevant for rare mutations, are addressed in well mixed populations. For more frequent mutations, the average abundance is investigated in well mixed as well as in structured populations. While the fixation properties are generalizations of the results from two player scenarios, addressing the average abundance in multi-player games gives rise to novel outcomes not possible in pairwise games.&lt;/p&gt;
 
 &lt;div&gt;&lt;a href=&quot;http://www.mdpi.com/2073-4336/4/2/182&quot; class=&quot;btn btn-success&quot;&gt;Link to Paper&lt;/a&gt;&lt;/div&gt;
 
@@ -240,7 +138,7 @@ end
 
 &lt;hr /&gt;
 
-&lt;h2 id=&quot;i-am-still-writing-this-up---&quot;&gt;I am still writing this up . . .&lt;/h2&gt;
+&lt;p&gt;Fitness is the central concept in evolutionary theory. It measures a phenotype’s ability to survive and reproduce. There are different ways to represent this measure: Malthusian fitness and Wrightian fitness. One can go back and forth between the two, but when we characterize model properties or interpret data, it can be important to distinguish between them. Here, we discuss a recent experiment to show how the interpretation changes if an alternative definition is used.&lt;/p&gt;
 
 &lt;div&gt;&lt;a href=&quot;http://dx.doi.org/10.1002/ece3.500&quot; class=&quot;btn btn-success&quot;&gt;Link to Paper&lt;/a&gt;&lt;/div&gt;
 
@@ -272,7 +170,35 @@ end
 
 &lt;hr /&gt;
 
-&lt;h2 id=&quot;i-am-still-writing-this-up---&quot;&gt;I am still writing this up . . .&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&amp;#8220;Now here you see, it takes all the running you can do, to keep in the same place. If you want to get somewhere else, you must run at least twice as fast as that&amp;#8221; (The Red Queen)
+&amp;#8211; Lewis Carroll (Through the Looking-Glass)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;h3 id=&quot;not-on-my-watch-says-the-red-king-bergstrom-and-lachmann--this-paper&quot;&gt;&amp;#8220;Not on my watch&amp;#8221; says the Red King (Bergstrom and Lachmann \&amp;amp; this paper)&lt;/h3&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Nature is often portrayed as red in tooth and claw with an overarching body of research focused on antagonistic relationships such as predator prey of host parasites. In such relationships it is proposed that it is always better to evolve faster than your antagonist. If the cheetahs start running faster then evolution favours even faster gazelles basically bringing the cheetahs back to square one. In the words of Lewis Carroll’s Red Queen from Through the Looking-
+Glass, “Now, here, you see, it takes all the running you can do, to keep in the same place”. In evolutionary theory this is often known as the Red Queen Hypothesis.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;/images/Figs_RedKing/antagonistic.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;
+	&lt;a href=&quot;#&quot; title=&quot;&quot;&gt;Single path and Hypercube. Hypothetical fitness paths where only a fixed sequence of mutation can lead to the state of higher fitness (single path) or a multitude of paths lead to the ultimate state (hypercube). The intermediate states are all assumed to have the same fitness s as compared to the fitness of the initial state considered to be 1 and the final state as r_d.&lt;/a&gt;.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;However, there are other types of interactions than just hostile coevolution. Mutualistic interactions are the ones in which both the interacting species benefit. In such situations it was proposed that the species which evolves slower can get a larger share of the benefit, thus putting forth a Red King hypothesis.&lt;/p&gt;
+
+&lt;p&gt;The analysis was based on pairwise interactions, for example when a single individual from a species interacts with a single individual from another species like a hummingbird and the flower it pollinates. But often interactions are not pairwise and a number of individuals from one species can interact with a number of individuals from another species for example ant-aphid mutualism. In such cases the analysis can be much more complicated and we resort to multiplayer evolutionary game theory to address this complexity.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;/images/Figs_RedKing/mutualistic.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;
+	&lt;a href=&quot;#&quot; title=&quot;&quot;&gt;Single path and Hypercube. Hypothetical fitness paths where only a fixed sequence of mutation can lead to the state of higher fitness (single path) or a multitude of paths lead to the ultimate state (hypercube). The intermediate states are all assumed to have the same fitness s as compared to the fitness of the initial state considered to be 1 and the final state as r_d.&lt;/a&gt;.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We find that where pairwise analysis predicts that evolving slower is better, a multiplayer analysis of the same case can predict that evolving faster is better. So the picture is much more complex and a larger share of the benefit cannot be obtained by just tweaking the rate of evolution but it has to evolve in the light of interacting group size as well. This mathematical study thus brings into focus the complex interplay of the evolution of the rate of evolution and the evolution of group size, particularly in a mutualistic setting.&lt;/p&gt;
 
 &lt;div&gt;&lt;a href=&quot;http://rspb.royalsocietypublishing.org/content/279/1747/4611.long&quot; class=&quot;btn btn-success&quot;&gt;Link to Paper&lt;/a&gt;&lt;/div&gt;
 
@@ -309,7 +235,7 @@ end
 
 &lt;hr /&gt;
 
-&lt;h2 id=&quot;i-am-still-writing-this-up---&quot;&gt;I am still writing this up . . .&lt;/h2&gt;
+&lt;p&gt;The analysis of equilibrium points in biological dynamical systems has been of great interest in a variety of mathematical approaches to biology, such as population genetics, theoretical ecology or evolutionary game theory. The maximal number of equilibria and their classification based on stability have been the primary subjects of these studies, for example in the context of two-player games with multiple strategies. Herein, we address a different question using evolutionary game theory as a tool. If the payoff matrices are drawn randomly from an arbitrary distribution, what are the probabilities of observing a certain number of (stable) equilibria? We extend the domain of previous results for the two-player framework, which corresponds to a single diploid locus in population genetics, by addressing the full complexity of multi- player games with multiple strategies. In closing, we discuss an application and illustrate how previous results on the number of equilibria, such as the famous Feldman–Karlin conjecture on the maximal number of isolated fixed points in a viability selection model, can be obtained as special cases of our results based on multi-player evolutionary games. We also show how the probability of realizing a certain number of equilibria changes as we increase the number of players and number of strategies.&lt;/p&gt;
 
 &lt;div&gt;&lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0040580912000287&quot; class=&quot;btn btn-success&quot;&gt;Link to Paper&lt;/a&gt;&lt;/div&gt;
 

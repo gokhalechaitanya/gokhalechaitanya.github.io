@@ -48,6 +48,7 @@ ____
 
 ##Reviewing
 
++ Dynamic Games and Applications
 + Evolution
 + Journal of Mathematical Biology
 + Journal of Theoretical Biology
