@@ -26,6 +26,14 @@ ___
 
 ##Education
 
+####March 2014 - 
+
+* Post-doctoral researcher at the [The New Zealand Institute for Advanced Study](http://www.nzias.ac.nz)
+
+####March 2011 - February 2014
+
+* Post-doctoral researcher in the research group for Evolutionary Theory at the [Max Planck Institute for Evolutionary Biology, Plön](http://www.evolbio.mpg.de)
+
 ####May 2008 - March 2011
 
 * Doctorate in Natural Sciences,
