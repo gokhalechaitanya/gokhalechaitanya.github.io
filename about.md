@@ -14,10 +14,10 @@ share: true
 #Chaitanya S. Gokhale 
 
 Post Doctoral Researcher  
-Evolutionary Dynamics Group  
-Max-Planck-Institute für Evolutionsbiologie  
-August Thienemann Straße 2  
-24306 Plön, Germany  
+New Zealand Institute for Advanced Study
+Massey University 
+Albany, Auckland
+New Zealand 
 
 > I say, if your knees aren't green by the end of the day, you ought to seriously re-examine your life  
 -- Bill Watterson, (Calvin and Hobbes)
