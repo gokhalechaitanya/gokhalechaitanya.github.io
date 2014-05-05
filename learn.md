@@ -57,8 +57,10 @@ ____
 ##Reviewing
 
 + Dynamic Games and Applications
++ Ecology Letters
 + Evolution
 + Journal of Mathematical Biology
++ Journal of The Royal Society Interface
 + Journal of Theoretical Biology
 + Mathematical Biosciences
 + Proceedings of the National Academy of Sciences, USA
