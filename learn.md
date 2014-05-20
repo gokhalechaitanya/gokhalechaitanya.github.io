@@ -67,6 +67,7 @@ ____
 + Proceedings of the Royal Society B: Biological Sciences
 + PLoS Computational Biology
 + PLoS One
++ Scientific Reports
 + Theoretical Population Biology
 + Santa Fe Complex Systems Summer School (CSS) applications
 
