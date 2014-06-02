@@ -56,6 +56,8 @@ ____
 
 ##Reviewing
 
+###Journals
+
 + Dynamic Games and Applications
 + Ecology Letters
 + Evolution
@@ -69,7 +71,10 @@ ____
 + PLoS One
 + Scientific Reports
 + Theoretical Population Biology
+
+### Committee
 + Santa Fe Complex Systems Summer School (CSS) applications
++ L'OREAL Austria [Fellowship for Young Female Scientists in Basic Research]
 
 ___
 
