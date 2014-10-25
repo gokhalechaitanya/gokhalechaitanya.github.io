@@ -6,8 +6,7 @@ description: "Instructions on how to install and customize the modern Jekyll the
 tags: [research]
 image:
   feature: Rfocus.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  credit: cgokhale
 share: true
 ---
 > I regard consciousness as fundamental. I regard matter as derivative from consciousness. We cannot get behind consciousness. Everything that we talk about, everything that we regard as existing postulates consciousness.  
