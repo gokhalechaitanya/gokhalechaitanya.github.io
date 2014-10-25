@@ -5,7 +5,7 @@ title: Research Focus
 description: "Instructions on how to install and customize the modern Jekyll theme HPSTR."
 tags: [research]
 image:
-  feature: abstract-10.jpg
+  feature: Rfocus.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 share: true
