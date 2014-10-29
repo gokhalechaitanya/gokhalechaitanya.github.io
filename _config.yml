@@ -41,6 +41,8 @@ links:
   - title: New Zealand Institute for Advanced Study
     url: http://www.nzias.ac.nz
     external: true
+  - title: Photography
+    url: /photography
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Berlin
