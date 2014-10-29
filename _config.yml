@@ -1,6 +1,8 @@
 title:            Explore
 description:      This is a personal website of Chaitanya S. Gokhale
 disqus_shortname: gokhalechaitanya
+reading_time:     true
+words_per_minute: 200
 #Comment out url when working locally to resolve base urls correctly
 url:              http://gokhalechaitanya.github.io
 
@@ -11,22 +13,22 @@ owner:
   bio:            "Working in the field of evolutionary dynamics. Currently based in Auckland"
   email:          gokhale@evolbio.mpg.de
   # Social networking links used in footer. Update and remove as you like.
-  #twitter:        
-  facebook:       
-  #github:         
-  #stackexchange:  
-  linkedin:          
-  #instagram:      
-  #flickr:         
-  #tumblr:         
+  twitter:        gokhalecs
+  facebook:
+  #github:
+  #stackexchange:
+  linkedin:
+  #instagram:
+  #flickr:
+  #tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  #google_plus:   
+  #google_plus:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-44134350-1
-#google_verify:      
+#google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-#bing_verify:         
+#bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
@@ -36,6 +38,9 @@ links:
   - title: MPI for Evolutionary Biology
     url: http://www.evolbio.mpg.de
     external: true
+  - title: New Zealand Institute for Advanced Study
+    url: http://www.nzias.ac.nz
+    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Berlin
@@ -44,7 +49,7 @@ pygments:    true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+permalink:   /:categories/:title/
 
 # Amount of post to show on home page
 paginate: 5
@@ -64,4 +69,4 @@ kramdown:
     coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
