@@ -38,6 +38,10 @@
     </url>
     
     <url>
+        <loc>http://0.0.0.0:4000/photography/</loc>
+    </url>
+    
+    <url>
         <loc>http://0.0.0.0:4000/research/</loc>
     </url>
     
