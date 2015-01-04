@@ -23,5 +23,5 @@ comments: true
   <a href="{{ site.url }}/images/bw_auckland.jpg"><img src="{{ site.url }}/images/bw_auckland.jpg" alt=""></a>
   <a href="{{ site.url }}/images/bw_Rangitoto.jpg"><img src="{{ site.url }}/images/bw_Rangitoto.jpg" alt=""></a>
   <a href="{{ site.url }}/images/bw_Pawarenga.jpg"><img src="{{ site.url }}/images/bw_Pawarenga.jpg" alt=""></a>
- <figcaption>Will keep on updating</figcaption>
+ <figcaption>Colours will follow... </figcaption>
 </figure>
