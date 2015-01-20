@@ -32,6 +32,7 @@ comments: true
 
 <figure class="third">
   <a href="{{ site.url }}/images/col_eutin.jpg"><img src="{{ site.url }}/images/col_eutin.jpg" alt=""></a>
+  <a href="{{ site.url }}/images/Rfocus.jpg"><img src="{{ site.url }}/images/Rfocus.jpg" alt=""></a>
   <a href="{{ site.url }}/images/col_mitimiti.jpg"><img src="{{ site.url }}/images/col_mitimiti.jpg" alt=""></a>
   <a href="{{ site.url }}/images/col_dunes.jpg"><img src="{{ site.url }}/images/col_dunes.jpg" alt=""></a>
  <figcaption>...</figcaption>
