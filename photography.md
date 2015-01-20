@@ -23,5 +23,16 @@ comments: true
   <a href="{{ site.url }}/images/bw_auckland.jpg"><img src="{{ site.url }}/images/bw_auckland.jpg" alt=""></a>
   <a href="{{ site.url }}/images/bw_Rangitoto.jpg"><img src="{{ site.url }}/images/bw_Rangitoto.jpg" alt=""></a>
   <a href="{{ site.url }}/images/bw_Pawarenga.jpg"><img src="{{ site.url }}/images/bw_Pawarenga.jpg" alt=""></a>
- <figcaption>Colours will follow... </figcaption>
+ <figcaption>Colours follow... </figcaption>
+</figure>
+
+
+> Photography is like a moment, an instant. You need a half-second to get the photo. So it's good to capture people when they are themselves.  
+-- Patrick Demarchelier
+
+<figure class="third">
+  <a href="{{ site.url }}/images/col_eutin.jpg"><img src="{{ site.url }}/images/col_eutin.jpg" alt=""></a>
+  <a href="{{ site.url }}/images/col_mitimiti.jpg"><img src="{{ site.url }}/images/col_mitimiti.jpg" alt=""></a>
+  <a href="{{ site.url }}/images/col_dunes.jpg"><img src="{{ site.url }}/images/col_dunes.jpg" alt=""></a>
+ <figcaption>...</figcaption>
 </figure>
