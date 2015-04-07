@@ -3,7 +3,7 @@ layout: post
 title: Red King Demonstration
 description: "Mathematica Interactive CDF published on Wolfram Demonstrations"
 modified: 2013-10-08
-tags: [evolutionary game theory, deterministic dynamics, equilibrium, multiple players, mutualism, mathematica]
+tags: [evolutionary game theory, deterministic dynamics, equilibrium, multiple players, mutualism, mathematica,wolfram]
 image:
   feature: abstract-3.jpg
   credit: dargadgetz
