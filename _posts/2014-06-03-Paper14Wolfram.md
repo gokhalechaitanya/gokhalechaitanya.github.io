@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Eco-evolutionary dynamics of social dilemmas
-description: "Mathematica Interactive CDF published on Wolfram Demonstrations"
+description: <font color='red'>"Mathematica Interactive CDF published on Wolfram Demonstrations"</font>
 modified: 2014-06-03
 tags: [evolutionary game theory, deterministic dynamics, equilibrium, multiple players, dilemmas, cooperation, mathematica, wolfram]
 image:
