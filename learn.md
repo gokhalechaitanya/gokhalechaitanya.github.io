@@ -91,7 +91,7 @@ ___
 
 ##Publications
 
-<ol>
+<ol reversed=true>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.description }}</a>
