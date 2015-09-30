@@ -91,13 +91,13 @@ ___
 
 ##Publications
 
-<ul>
+<ol>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.description }}</a>
     </li>
   {% endfor %}
-</ul>  
+</ol>  
 
 
 <div markdown="0"><a href="{{ site.url }}/images/Gokhale_CV.pdf" class="btn btn-info">Download as a PDF</a></div>
