@@ -13,6 +13,6 @@ So here is some writing which never suffered (?) the peer review process.
 * [Peak XV]({{ site.url }}/peerfree/XV/)
 * Origin of Life and Evolutionary Games
 * [Doctoral Thesis]({{ site.url }}/images/Gokhale_PhDThesis.pdf)
-* [masters Thesis]({{ site.url }}/images/Gokhale_MScThesis.pdf)
+* [Masters Thesis]({{ site.url }}/images/Gokhale_MScThesis.pdf)
 
 ___
