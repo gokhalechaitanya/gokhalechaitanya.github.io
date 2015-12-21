@@ -24,6 +24,7 @@ comments: true
   <a href="{{ site.url }}/images/bw_Rangitoto.jpg"><img src="{{ site.url }}/images/bw_Rangitoto.jpg" alt=""></a>
   <a href="{{ site.url }}/images/bw_Pawarenga.jpg"><img src="{{ site.url }}/images/bw_Pawarenga.jpg" alt=""></a>
   <a href="{{ site.url }}/images/bw_aucklandbehemoth.jpg"><img src="{{ site.url }}/images/bw_aucklandbehemoth.jpg" alt=""></a>
+  <a href="{{ site.url }}/images/bw_StArnaud.jpg"><img src="{{ site.url }}/images/bw_StArnaud.jpg" alt=""></a>
  <figcaption>Colours follow... </figcaption>
 </figure>
 
@@ -36,5 +37,6 @@ comments: true
   <a href="{{ site.url }}/images/Rfocus.jpg"><img src="{{ site.url }}/images/Rfocus.jpg" alt=""></a>
   <a href="{{ site.url }}/images/col_mitimiti.jpg"><img src="{{ site.url }}/images/col_mitimiti.jpg" alt=""></a>
   <a href="{{ site.url }}/images/col_dunes.jpg"><img src="{{ site.url }}/images/col_dunes.jpg" alt=""></a>
+  <a href="{{ site.url }}/images/col_wharariki.jpg"><img src="{{ site.url }}/images/col_wharariki.jpg" alt=""></a>
  <figcaption>...</figcaption>
 </figure>
