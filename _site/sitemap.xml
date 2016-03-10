@@ -1,126 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://gokhalechaitanya.github.io</loc>
+        <loc></loc>
     </url>
     
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/404.html</loc>
+        <loc>/404.html</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/peerfree/XV/</loc>
+        <loc>/peerfree/XV/</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/about/</loc>
+        <loc>/about/</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/articles/</loc>
+        <loc>/articles/</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/feed.xml</loc>
+        <loc>/feed.xml</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/index.html</loc>
+        <loc>/index.html</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/learn/</loc>
+        <loc>/learn/</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/otherpubs/</loc>
+        <loc>/otherpubs/</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/photography/</loc>
+        <loc>/photography/</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/research/</loc>
+        <loc>/research/</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/sitemap.xml</loc>
+        <loc>/sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/tags/</loc>
+        <loc>/tags/</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/page2/index.html</loc>
+        <loc>/page2/index.html</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/page3/index.html</loc>
+        <loc>/page3/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>/page4/index.html</loc>
     </url>
     
 
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/Paper14Wolfram/</loc>
+        <loc>/Paper16/</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/Paper13/</loc>
+        <loc>/Paper15/</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/Paper12/</loc>
+        <loc>/Paper14/</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/Paper11/</loc>
+        <loc>/Paper14Wolfram/</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/Paper11Wolfram/</loc>
+        <loc>/Paper13/</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/Paper10/</loc>
+        <loc>/Paper12/</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/Paper9/</loc>
+        <loc>/Paper11/</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/Paper8/</loc>
+        <loc>/Paper11Wolfram/</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/Paper7/</loc>
+        <loc>/Paper10/</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/Paper6/</loc>
+        <loc>/Paper9/</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/Paper5/</loc>
+        <loc>/Paper8/</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/Paper4/</loc>
+        <loc>/Paper7/</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/Paper3/</loc>
+        <loc>/Paper6/</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/Paper2/</loc>
+        <loc>/Paper5/</loc>
     </url>
     
     <url>
-        <loc>http://gokhalechaitanya.github.io/Paper1/</loc>
+        <loc>/Paper4/</loc>
+    </url>
+    
+    <url>
+        <loc>/Paper3/</loc>
+    </url>
+    
+    <url>
+        <loc>/Paper2/</loc>
+    </url>
+    
+    <url>
+        <loc>/Paper1/</loc>
     </url>
     
 </urlset>

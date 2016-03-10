@@ -2,27 +2,168 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Explore</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://gokhalechaitanya.github.io/feed.xml" />
-<link rel="alternate" type="text/html" href="http://gokhalechaitanya.github.io" />
-<updated>2015-02-25T01:59:12+01:00</updated>
-<id>http://gokhalechaitanya.github.io/</id>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2016-03-10T04:19:56+01:00</updated>
+<id>/</id>
 <author>
   <name>Chaitanya S. Gokhale</name>
-  <uri>http://gokhalechaitanya.github.io/</uri>
+  <uri>/</uri>
   <email>gokhale@evolbio.mpg.de</email>
 </author>
 
 
 <entry>
+  <title type="html"><![CDATA[Host parasite co-evolution, Why changing population size matters]]></title>
+ <link rel="alternate" type="text/html" href="/Paper16/" />
+  <id>/Paper16</id>
+  <updated>2016-03-10T00:00:00-00:00</updated>
+  <published>2016-03-10T00:00:00+01:00</published>
+  
+  <author>
+    <name>Chaitanya S. Gokhale</name>
+    <uri></uri>
+    <email>gokhale@evolbio.mpg.de</email>
+  </author>
+  <content type="html">&lt;h3 id=&quot;papkou-a-gokhale-c-s-traulsen-a--schulenburg-h&quot;&gt;Papkou, A., Gokhale, C. S., Traulsen, A. &amp;amp; Schulenburg, H.&lt;/h3&gt;
+
+&lt;h3 id=&quot;host-parasite-co-evolution-why-changing-population-size-matters&quot;&gt;&lt;em&gt;Host parasite co-evolution, Why changing population size matters&lt;/em&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;zoology&quot;&gt;&lt;em&gt;Zoology&lt;/em&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;doi101016jzool201602001&quot;&gt;doi:10.1016/j.zool.2016.02.001&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“if we run the tape of life back from the start how likely is it that we will get the same outcome that we see around us today?”
+– Stephen Jay Gould&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&quot;a-nice-overview-by-the-first-author-benedikt-bauerhttpwwwevolbiompgde1580484employeepagec2169employeeid11974---&quot;&gt;A nice overview by the first author &lt;a href=&quot;http://www.evolbio.mpg.de/1580484/employee_page?c=2169&amp;amp;employee_id=11974&quot;&gt;Benedikt Bauer&lt;/a&gt; –&lt;/h5&gt;
+
+&lt;p&gt;In many biological systems it is interesting to know how long it takes for a mutational process to happen. 
+For example to be able to predict how long it takes for the bird flu to accumulate the necessary mutations to cross the interspecies barrier. 
+Another example would be the time it takes for self cells to harvest the mutations necessary to turn into cancer cells.
+In our manuscript we present an algorithm on how to recursively compute the time distribution for processes in which the individuals proliferate independently of other individuals. 
+By having the time distribution, it is possible to say up to which time the mutational process happens with a probability below a certain threshold.
+We go even step further in our manuscript and develop a procedure computing the time distribution for the single mutational pathways. 
+This allows us to derive probabilities for the order in which the mutations are accumulated and ultimately this gives information about the subpopulations present in the system. 
+In cancer, for example, subpopulations pose a high thread for a relapse after treatment: A subpopulation might not be targeted by normal chemotherapy and in the worst case only one additional mutations for cells of that subpopulation is needed to become cancerous. Therefore, by knowing which subpopulations are present it might be possible to develop therapies specific for those subpopulations.
+While there is no closed form solution for the time distributions, a direct computation of the mutational path probabilities would make it possible to interactively analyze the parameter space, even when not all required input, like mutation, birth, and death rates, are available, since long lasting simulations are not necessary anymore.&lt;/p&gt;
+
+&lt;div&gt;&lt;a href=&quot;http://www.nature.com/articles/srep09607&quot; class=&quot;btn btn-success&quot;&gt;Link To SciRep&lt;/a&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;http://biorxiv.org/content/early/2015/03/20/016782&quot; class=&quot;btn btn-success&quot;&gt;Paper on bioRxiv&lt;/a&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;http://arxiv.org/abs/1503.05939&quot; class=&quot;btn btn-info&quot;&gt;Paper on arXiv&lt;/a&gt;&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/Paper16/&quot;&gt;Host parasite co-evolution, Why changing population size matters&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;&quot;&gt;Explore&lt;/a&gt; on March 10, 2016.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Red Queen with population dynamics]]></title>
+ <link rel="alternate" type="text/html" href="/Paper15/" />
+  <id>/Paper15</id>
+  <updated>2015-09-30T00:00:00-00:00</updated>
+  <published>2015-09-30T00:00:00+02:00</published>
+  
+  <author>
+    <name>Chaitanya S. Gokhale</name>
+    <uri></uri>
+    <email>gokhale@evolbio.mpg.de</email>
+  </author>
+  <content type="html">&lt;h3 id=&quot;song-y-gokhale-cs-papkou-a-traulsen-a--schulenburg-h&quot;&gt;Song, Y., Gokhale, C.S., Papkou, A., Traulsen, A., &amp;amp; Schulenburg, H.&lt;/h3&gt;
+
+&lt;h3 id=&quot;host-parasite-coevolution-in-populations-of-constant-and-variable-size&quot;&gt;&lt;em&gt;Host-parasite coevolution in populations of constant and variable size.&lt;/em&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;bmc-evolutionary-biology&quot;&gt;&lt;em&gt;BMC Evolutionary Biology,&lt;/em&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;15, 212&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Now here you see, it takes all the running you can do, to keep in the same place. If you want to get somewhere else, you must run at least twice as fast as that” (The Red Queen)
+– Lewis Carroll (Through the Looking-Glass)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The matching-allele and gene-for-gene models are widely used in mathematical approaches that study the dynamics of host-parasite interactions. &lt;a href=&quot;#agrawal:2002&quot;&gt;Agrawal and Lively&lt;/a&gt; captured these two models in a single framework and numerically explored the associated time discrete dynamics of allele frequencies.&lt;/p&gt;
+
+&lt;p&gt;Here, we present a detailed analytical investigation of this unifying framework in continuous time and provide a generalization. We extend the model to take into account changing population sizes, which result from the antagonistic nature of the interaction and follow the Lotka-Volterra equations. Under this extension, the population dynamics become most complex as the model moves away from pure matching-allele and becomes more gene-for-gene-like. While the population densities oscillate with a single oscillation frequency in the pure matching-allele model, a second oscillation frequency arises under gene-for-gene-like conditions. These observations hold for general interaction parameters and allow to infer generic patterns of the dynamics.&lt;/p&gt;
+
+&lt;p&gt;Our results suggest that experimentally inferred dynamical patterns of host-parasite coevolution should typically be much more complex than the popular illustrations of Red Queen dynamics. A single parasite that infects more than one host can substantially alter the cyclic dynamics.&lt;/p&gt;
+
+&lt;div&gt;&lt;a href=&quot;http://www.biomedcentral.com/1471-2148/15/212&quot; class=&quot;btn btn-success&quot;&gt;Link to Paper&lt;/a&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;http://www.biomedcentral.com/content/pdf/s12862-015-0462-6.pdf&quot; class=&quot;btn btn-info&quot;&gt;Download PDF&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a id=&quot;agrawal:2002&quot;&gt;Agrawal A, Lively CM. Infection genetics: gene-for-gene versus matching-alleles models and all points in between. Evol Ecol Res. 2002;4:79–90.&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/Paper15/&quot;&gt;Red Queen with population dynamics&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;&quot;&gt;Explore&lt;/a&gt; on September 30, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Repeatability of Evolution]]></title>
+ <link rel="alternate" type="text/html" href="/Paper14/" />
+  <id>/Paper14</id>
+  <updated>2015-04-19T00:00:00-00:00</updated>
+  <published>2015-04-19T00:00:00+02:00</published>
+  
+  <author>
+    <name>Chaitanya S. Gokhale</name>
+    <uri></uri>
+    <email>gokhale@evolbio.mpg.de</email>
+  </author>
+  <content type="html">&lt;h3 id=&quot;bauer-b--gokhale-c-s&quot;&gt;Bauer, B &amp;amp; Gokhale, C. S.&lt;/h3&gt;
+
+&lt;h3 id=&quot;repeatability-of-evolution-on-epistatic-landscapes&quot;&gt;&lt;em&gt;Repeatability of evolution on epistatic landscapes&lt;/em&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;scientific-reports-5&quot;&gt;&lt;em&gt;Scientific Reports, 5&lt;/em&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;p9607&quot;&gt;p.9607&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“if we run the tape of life back from the start how likely is it that we will get the same outcome that we see around us today?”
+– Stephen Jay Gould&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&quot;a-nice-overview-by-the-first-author-benedikt-bauerhttpwwwevolbiompgde1580484employeepagec2169employeeid11974---&quot;&gt;A nice overview by the first author &lt;a href=&quot;http://www.evolbio.mpg.de/1580484/employee_page?c=2169&amp;amp;employee_id=11974&quot;&gt;Benedikt Bauer&lt;/a&gt; –&lt;/h5&gt;
+
+&lt;p&gt;In many biological systems it is interesting to know how long it takes for a mutational process to happen. 
+For example to be able to predict how long it takes for the bird flu to accumulate the necessary mutations to cross the interspecies barrier. 
+Another example would be the time it takes for self cells to harvest the mutations necessary to turn into cancer cells.
+In our manuscript we present an algorithm on how to recursively compute the time distribution for processes in which the individuals proliferate independently of other individuals. 
+By having the time distribution, it is possible to say up to which time the mutational process happens with a probability below a certain threshold.
+We go even step further in our manuscript and develop a procedure computing the time distribution for the single mutational pathways. 
+This allows us to derive probabilities for the order in which the mutations are accumulated and ultimately this gives information about the subpopulations present in the system. 
+In cancer, for example, subpopulations pose a high thread for a relapse after treatment: A subpopulation might not be targeted by normal chemotherapy and in the worst case only one additional mutations for cells of that subpopulation is needed to become cancerous. Therefore, by knowing which subpopulations are present it might be possible to develop therapies specific for those subpopulations.
+While there is no closed form solution for the time distributions, a direct computation of the mutational path probabilities would make it possible to interactively analyze the parameter space, even when not all required input, like mutation, birth, and death rates, are available, since long lasting simulations are not necessary anymore.&lt;/p&gt;
+
+&lt;div&gt;&lt;a href=&quot;http://www.nature.com/articles/srep09607&quot; class=&quot;btn btn-success&quot;&gt;Link To SciRep&lt;/a&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;http://biorxiv.org/content/early/2015/03/20/016782&quot; class=&quot;btn btn-success&quot;&gt;Paper on bioRxiv&lt;/a&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;a href=&quot;http://arxiv.org/abs/1503.05939&quot; class=&quot;btn btn-info&quot;&gt;Paper on arXiv&lt;/a&gt;&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/Paper14/&quot;&gt;Repeatability of Evolution&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;&quot;&gt;Explore&lt;/a&gt; on April 19, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[Eco-evolutionary dynamics of social dilemmas]]></title>
- <link rel="alternate" type="text/html" href="http://gokhalechaitanya.github.io/Paper14Wolfram/" />
-  <id>http://gokhalechaitanya.github.io/Paper14Wolfram</id>
+ <link rel="alternate" type="text/html" href="/Paper14Wolfram/" />
+  <id>/Paper14Wolfram</id>
   <updated>2014-06-03T00:00:00-00:00</updated>
   <published>2014-06-03T00:00:00+02:00</published>
   
   <author>
     <name>Chaitanya S. Gokhale</name>
-    <uri>http://gokhalechaitanya.github.io</uri>
+    <uri></uri>
     <email>gokhale@evolbio.mpg.de</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://demonstrations.wolfram.com/index.html&quot;&gt;Wolfram Demonstrations&lt;/a&gt; is a service offered by Wolfram, the makers of Mathematica to host interactive computable documents (CDF). &lt;/p&gt;
@@ -45,20 +186,20 @@ You will probably need Mathematica or the &lt;a href=&quot;http://www.wolfram.co
 
 &lt;p&gt;&lt;a id=&quot;hauert:2006b&quot;&gt;C. Hauert, M. Holmes, and M. Doebeli, “Evolutionary Games and Population Dynamics: Maintenance of Cooperation in Public Goods Games,” Proceedings of the Royal Society B: Biological Sciences, 273(1600), pp. 2565-2571, 2006.&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://gokhalechaitanya.github.io/Paper14Wolfram/&quot;&gt;Eco-evolutionary dynamics of social dilemmas&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;http://gokhalechaitanya.github.io&quot;&gt;Explore&lt;/a&gt; on June 03, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/Paper14Wolfram/&quot;&gt;Eco-evolutionary dynamics of social dilemmas&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;&quot;&gt;Explore&lt;/a&gt; on June 03, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Medea-Underdominance]]></title>
- <link rel="alternate" type="text/html" href="http://gokhalechaitanya.github.io/Paper13/" />
-  <id>http://gokhalechaitanya.github.io/Paper13</id>
+ <link rel="alternate" type="text/html" href="/Paper13/" />
+  <id>/Paper13</id>
   <updated>2014-03-27T00:00:00-00:00</updated>
   <published>2014-04-28T00:00:00+02:00</published>
   
   <author>
     <name>Chaitanya S. Gokhale</name>
-    <uri>http://gokhalechaitanya.github.io</uri>
+    <uri></uri>
     <email>gokhale@evolbio.mpg.de</email>
   </author>
   <content type="html">&lt;h3 id=&quot;gokhale-c-s-reeves-r-g--reed-fa&quot;&gt;Gokhale, C. S., Reeves R. G. &amp;amp; Reed, F.A.&lt;/h3&gt;
@@ -88,20 +229,20 @@ You will probably need Mathematica or the &lt;a href=&quot;http://www.wolfram.co
 
 &lt;div&gt;&lt;a href=&quot;http://www.biomedcentral.com/content/pdf/1471-2148-14-98.pdf&quot; class=&quot;btn btn-info&quot;&gt;Download PDF&lt;/a&gt;&lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://gokhalechaitanya.github.io/Paper13/&quot;&gt;Medea-Underdominance&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;http://gokhalechaitanya.github.io&quot;&gt;Explore&lt;/a&gt; on April 28, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/Paper13/&quot;&gt;Medea-Underdominance&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;&quot;&gt;Explore&lt;/a&gt; on April 28, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Evolutionary Multiplayer Games (Review)]]></title>
- <link rel="alternate" type="text/html" href="http://gokhalechaitanya.github.io/Paper12/" />
-  <id>http://gokhalechaitanya.github.io/Paper12</id>
+ <link rel="alternate" type="text/html" href="/Paper12/" />
+  <id>/Paper12</id>
   <updated>2014-03-27T00:00:00-00:00</updated>
   <published>2014-03-27T00:00:00+01:00</published>
   
   <author>
     <name>Chaitanya S. Gokhale</name>
-    <uri>http://gokhalechaitanya.github.io</uri>
+    <uri></uri>
     <email>gokhale@evolbio.mpg.de</email>
   </author>
   <content type="html">&lt;h3 id=&quot;gokhale-cs--traulsen-a&quot;&gt;Gokhale, CS, &amp;amp; Traulsen, A.&lt;/h3&gt;
@@ -131,22 +272,22 @@ You will probably need Mathematica or the &lt;a href=&quot;http://www.wolfram.co
 
 &lt;div&gt;&lt;a href=&quot;http://link.springer.com/article/10.1007/s13235-014-0106-2&quot; class=&quot;btn btn-success&quot;&gt;Link to Paper&lt;/a&gt;&lt;/div&gt;
 
-&lt;div&gt;&lt;a href=&quot;http://gokhalechaitanya.github.io/papers/Gokhale_Dyn_Games_Appl_2014.pdf&quot; class=&quot;btn btn-info&quot;&gt;Download PDF&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href=&quot;/papers/Gokhale_Dyn_Games_Appl_2014.pdf&quot; class=&quot;btn btn-info&quot;&gt;Download PDF&lt;/a&gt;&lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://gokhalechaitanya.github.io/Paper12/&quot;&gt;Evolutionary Multiplayer Games (Review)&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;http://gokhalechaitanya.github.io&quot;&gt;Explore&lt;/a&gt; on March 27, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/Paper12/&quot;&gt;Evolutionary Multiplayer Games (Review)&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;&quot;&gt;Explore&lt;/a&gt; on March 27, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Lotka-Volterra and the Red Queen]]></title>
- <link rel="alternate" type="text/html" href="http://gokhalechaitanya.github.io/Paper11/" />
-  <id>http://gokhalechaitanya.github.io/Paper11</id>
+ <link rel="alternate" type="text/html" href="/Paper11/" />
+  <id>/Paper11</id>
   <updated>2013-11-19T00:00:00-00:00</updated>
   <published>2013-11-19T00:00:00+01:00</published>
   
   <author>
     <name>Chaitanya S. Gokhale</name>
-    <uri>http://gokhalechaitanya.github.io</uri>
+    <uri></uri>
     <email>gokhale@evolbio.mpg.de</email>
   </author>
   <content type="html">&lt;h3 id=&quot;gokhale-cs-papkou-a-traulsen-a--schulenburg-h&quot;&gt;Gokhale, CS, Papkou, A., Traulsen, A., &amp;amp; Schulenburg, H.&lt;/h3&gt;
@@ -175,20 +316,20 @@ Furthermore fixation is not restricted to common alleles, as expected from drift
 
 &lt;div&gt;&lt;a href=&quot;http://www.biomedcentral.com/content/pdf/1471-2148-13-254.pdf&quot; class=&quot;btn btn-info&quot;&gt;Download PDF&lt;/a&gt;&lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://gokhalechaitanya.github.io/Paper11/&quot;&gt;Lotka-Volterra and the Red Queen&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;http://gokhalechaitanya.github.io&quot;&gt;Explore&lt;/a&gt; on November 19, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/Paper11/&quot;&gt;Lotka-Volterra and the Red Queen&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;&quot;&gt;Explore&lt;/a&gt; on November 19, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Red King Demonstration]]></title>
- <link rel="alternate" type="text/html" href="http://gokhalechaitanya.github.io/Paper11Wolfram/" />
-  <id>http://gokhalechaitanya.github.io/Paper11Wolfram</id>
+ <link rel="alternate" type="text/html" href="/Paper11Wolfram/" />
+  <id>/Paper11Wolfram</id>
   <updated>2013-10-08T00:00:00-00:00</updated>
   <published>2013-10-08T00:00:00+02:00</published>
   
   <author>
     <name>Chaitanya S. Gokhale</name>
-    <uri>http://gokhalechaitanya.github.io</uri>
+    <uri></uri>
     <email>gokhale@evolbio.mpg.de</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://demonstrations.wolfram.com/index.html&quot;&gt;Wolfram Demonstrations&lt;/a&gt; is a service offered by Wolfram, the makers of Mathematica to host interactive computable documents (CDF). &lt;/p&gt;
@@ -204,20 +345,20 @@ You will probably need Mathematica or the &lt;a href=&quot;http://www.wolfram.co
 &lt;div id=&quot;DEMO_MutualismAndEvolutionaryMultiplayerGamesRevisitingTheRedKing&quot;&gt;&lt;a class=&quot;demonstrationHyperlink&quot; href=&quot;http://demonstrations.wolfram.com/MutualismAndEvolutionaryMultiplayerGamesRevisitingTheRedKing/&quot; target=&quot;_blank&quot;&gt;Mutualism and Evolutionary Multiplayer Games: Revisiting the Red King Effect&lt;/a&gt; from the &lt;a class=&quot;demonstrationHyperlink&quot; href=&quot;http://demonstrations.wolfram.com/&quot; target=&quot;_blank&quot;&gt;Wolfram Demonstrations Project&lt;/a&gt; by Chaitanya S. Gokhale &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://gokhalechaitanya.github.io/Paper11Wolfram/&quot;&gt;Red King Demonstration&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;http://gokhalechaitanya.github.io&quot;&gt;Explore&lt;/a&gt; on October 08, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/Paper11Wolfram/&quot;&gt;Red King Demonstration&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;&quot;&gt;Explore&lt;/a&gt; on October 08, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Multiplayer games - Dynamics]]></title>
- <link rel="alternate" type="text/html" href="http://gokhalechaitanya.github.io/Paper10/" />
-  <id>http://gokhalechaitanya.github.io/Paper10</id>
+ <link rel="alternate" type="text/html" href="/Paper10/" />
+  <id>/Paper10</id>
   <updated>2013-05-06T00:00:00-00:00</updated>
   <published>2013-05-06T00:00:00+02:00</published>
   
   <author>
     <name>Chaitanya S. Gokhale</name>
-    <uri>http://gokhalechaitanya.github.io</uri>
+    <uri></uri>
     <email>gokhale@evolbio.mpg.de</email>
   </author>
   <content type="html">&lt;h3 id=&quot;wu-b-traulsen-a-gokhale-cs&quot;&gt;Wu B, Traulsen A, Gokhale CS.&lt;/h3&gt;
@@ -236,20 +377,20 @@ You will probably need Mathematica or the &lt;a href=&quot;http://www.wolfram.co
 
 &lt;div&gt;&lt;a href=&quot;http://www.mdpi.com/2073-4336/4/2/182/pdf&quot; class=&quot;btn btn-info&quot;&gt;Download PDF&lt;/a&gt;&lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://gokhalechaitanya.github.io/Paper10/&quot;&gt;Multiplayer games - Dynamics&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;http://gokhalechaitanya.github.io&quot;&gt;Explore&lt;/a&gt; on May 06, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/Paper10/&quot;&gt;Multiplayer games - Dynamics&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;&quot;&gt;Explore&lt;/a&gt; on May 06, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[On the definition of Fitness]]></title>
- <link rel="alternate" type="text/html" href="http://gokhalechaitanya.github.io/Paper9/" />
-  <id>http://gokhalechaitanya.github.io/Paper9</id>
+ <link rel="alternate" type="text/html" href="/Paper9/" />
+  <id>/Paper9</id>
   <updated>2013-04-03T00:00:00-00:00</updated>
   <published>2013-04-03T00:00:00+02:00</published>
   
   <author>
     <name>Chaitanya S. Gokhale</name>
-    <uri>http://gokhalechaitanya.github.io</uri>
+    <uri></uri>
     <email>gokhale@evolbio.mpg.de</email>
   </author>
   <content type="html">&lt;h3 id=&quot;wu-b-gokhale-cs-van-veelen-m-wang-l&quot;&gt;Wu B, Gokhale CS, van Veelen M, Wang L.&lt;/h3&gt;
@@ -268,20 +409,20 @@ You will probably need Mathematica or the &lt;a href=&quot;http://www.wolfram.co
 
 &lt;div&gt;&lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1002/ece3.500/pdf&quot; class=&quot;btn btn-info&quot;&gt;Download PDF&lt;/a&gt;&lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://gokhalechaitanya.github.io/Paper9/&quot;&gt;On the definition of Fitness&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;http://gokhalechaitanya.github.io&quot;&gt;Explore&lt;/a&gt; on April 03, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/Paper9/&quot;&gt;On the definition of Fitness&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;&quot;&gt;Explore&lt;/a&gt; on April 03, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Red King]]></title>
- <link rel="alternate" type="text/html" href="http://gokhalechaitanya.github.io/Paper8/" />
-  <id>http://gokhalechaitanya.github.io/Paper8</id>
+ <link rel="alternate" type="text/html" href="/Paper8/" />
+  <id>/Paper8</id>
   <updated>2012-09-12T00:00:00-00:00</updated>
   <published>2012-09-12T00:00:00+02:00</published>
   
   <author>
     <name>Chaitanya S. Gokhale</name>
-    <uri>http://gokhalechaitanya.github.io</uri>
+    <uri></uri>
     <email>gokhale@evolbio.mpg.de</email>
   </author>
   <content type="html">&lt;h3 id=&quot;gokhale-cs-traulsen-a&quot;&gt;Gokhale CS, Traulsen A.&lt;/h3&gt;
@@ -321,20 +462,20 @@ Glass, “Now, here, you see, it takes all the running you can do, to keep in th
 --&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://gokhalechaitanya.github.io/Paper8/&quot;&gt;Red King&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;http://gokhalechaitanya.github.io&quot;&gt;Explore&lt;/a&gt; on September 12, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/Paper8/&quot;&gt;Red King&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;&quot;&gt;Explore&lt;/a&gt; on September 12, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Multiplayer games - Statics]]></title>
- <link rel="alternate" type="text/html" href="http://gokhalechaitanya.github.io/Paper7/" />
-  <id>http://gokhalechaitanya.github.io/Paper7</id>
+ <link rel="alternate" type="text/html" href="/Paper7/" />
+  <id>/Paper7</id>
   <updated>2012-06-01T00:00:00-00:00</updated>
   <published>2012-06-01T00:00:00+02:00</published>
   
   <author>
     <name>Chaitanya S. Gokhale</name>
-    <uri>http://gokhalechaitanya.github.io</uri>
+    <uri></uri>
     <email>gokhale@evolbio.mpg.de</email>
   </author>
   <content type="html">&lt;h3 id=&quot;han-ta-traulsen-a-gokhale-cs&quot;&gt;Han TA, Traulsen A, Gokhale CS.&lt;/h3&gt;
@@ -356,20 +497,20 @@ Glass, “Now, here, you see, it takes all the running you can do, to keep in th
 --&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://gokhalechaitanya.github.io/Paper7/&quot;&gt;Multiplayer games - Statics&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;http://gokhalechaitanya.github.io&quot;&gt;Explore&lt;/a&gt; on June 01, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/Paper7/&quot;&gt;Multiplayer games - Statics&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;&quot;&gt;Explore&lt;/a&gt; on June 01, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Small mutation rates]]></title>
- <link rel="alternate" type="text/html" href="http://gokhalechaitanya.github.io/Paper6/" />
-  <id>http://gokhalechaitanya.github.io/Paper6</id>
+ <link rel="alternate" type="text/html" href="/Paper6/" />
+  <id>/Paper6</id>
   <updated>2012-04-01T00:00:00-00:00</updated>
   <published>2012-04-01T00:00:00+02:00</published>
   
   <author>
     <name>Chaitanya S. Gokhale</name>
-    <uri>http://gokhalechaitanya.github.io</uri>
+    <uri></uri>
     <email>gokhale@evolbio.mpg.de</email>
   </author>
   <content type="html">&lt;h3 id=&quot;wu-b-gokhale-cs-wang-l-traulsen-a&quot;&gt;Wu B, Gokhale CS, Wang L, Traulsen A.&lt;/h3&gt;
@@ -436,20 +577,20 @@ Herein we also provide a numerically accessible bound which can be calculated fo
 &lt;div markdown=&quot;0&quot;&gt;&lt;a href=&quot; &quot; class=&quot;btn btn-info&quot;&gt;Download PDF&lt;/a&gt;&lt;/div&gt;
 --&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://gokhalechaitanya.github.io/Paper6/&quot;&gt;Small mutation rates&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;http://gokhalechaitanya.github.io&quot;&gt;Explore&lt;/a&gt; on April 01, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/Paper6/&quot;&gt;Small mutation rates&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;&quot;&gt;Explore&lt;/a&gt; on April 01, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Strategy abundance]]></title>
- <link rel="alternate" type="text/html" href="http://gokhalechaitanya.github.io/Paper5/" />
-  <id>http://gokhalechaitanya.github.io/Paper5</id>
+ <link rel="alternate" type="text/html" href="/Paper5/" />
+  <id>/Paper5</id>
   <updated>2011-08-21T00:00:00-00:00</updated>
   <published>2011-08-21T00:00:00+02:00</published>
   
   <author>
     <name>Chaitanya S. Gokhale</name>
-    <uri>http://gokhalechaitanya.github.io</uri>
+    <uri></uri>
     <email>gokhale@evolbio.mpg.de</email>
   </author>
   <content type="html">&lt;h3 id=&quot;gokhale-cs-traulsen-a&quot;&gt;Gokhale CS, Traulsen A.&lt;/h3&gt;
@@ -496,7 +637,7 @@ Small mutation rates make sense in genetical sense but for cultural traits such 
 The theory developed herein can be used for a variety of applications ranging from finding the abundance of alleles in an allelic polymorphism to the best strategy in a social setting.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://gokhalechaitanya.github.io/images/Figs_MuSe/mutsimplices.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;/images/Figs_MuSe/mutsimplices.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 	&lt;figcaption&gt;
 	&lt;a href=&quot;#&quot; title=&quot;&quot;&gt;&lt;b&gt;In infinitely large populations as mutation probability increases, the area where a stable coexistence is possible decreases.&lt;/b&gt;
     (a) If a population is at a certain homogeneous state, all $A$, all $B$ or all $C$ then it will stay there forever.
@@ -539,20 +680,20 @@ populations. J. Theor. Biol., 259:570–581, 2009.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a id=&quot;grujic:2010&quot;&gt;J. Grujic, C. Fosco, L. Araujo, J.A. Cuesta, and A. Sanchez. Social experiments in the
 mesoscale: Humans playing a spatial prisoner’s dilemma. PLoS One, 5(11):e13749, 2010.&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://gokhalechaitanya.github.io/Paper5/&quot;&gt;Strategy abundance&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;http://gokhalechaitanya.github.io&quot;&gt;Explore&lt;/a&gt; on August 21, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/Paper5/&quot;&gt;Strategy abundance&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;&quot;&gt;Explore&lt;/a&gt; on August 21, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Stochastic slowdown]]></title>
- <link rel="alternate" type="text/html" href="http://gokhalechaitanya.github.io/Paper4/" />
-  <id>http://gokhalechaitanya.github.io/Paper4</id>
+ <link rel="alternate" type="text/html" href="/Paper4/" />
+  <id>/Paper4</id>
   <updated>2010-07-28T00:00:00-00:00</updated>
   <published>2010-07-28T00:00:00+02:00</published>
   
   <author>
     <name>Chaitanya S. Gokhale</name>
-    <uri>http://gokhalechaitanya.github.io</uri>
+    <uri></uri>
     <email>gokhale@evolbio.mpg.de</email>
   </author>
   <content type="html">&lt;h3 id=&quot;altrock-pm-gokhale-cs-traulsen-a&quot;&gt;Altrock PM, Gokhale CS, Traulsen A.&lt;/h3&gt;
@@ -568,7 +709,7 @@ mesoscale: Humans playing a spatial prisoner’s dilemma. PLoS One, 5(11):e13749
 &lt;p&gt;Consider the following simple setup. There are only two states A and B. The whole population (of size $N$) currently resides in state B. An individual can move from state B to state A by acquiring a mutation but not vice versa. For the dynamics we make use of the Moran process (&lt;a href=&quot;#moran:1962&quot;&gt;Moran, 1962&lt;/a&gt;). Each time step of the Moran process consists of a birth even and a death event. For the whole population to move from state B to state A means that all individuals currently in state B have to acquire the mutation. The mutation rate is given by $\mu$. We consider the limit of small mutation rates such that a mutant reaches its fate (either fixation or extinction) before a new one arises. There are no back mutations from A to B. Thus in our variant of the Moran process in each time step, one of the following three things can happen,&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://gokhalechaitanya.github.io/images/Figs_Stoslo/moranprocess.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;/images/Figs_Stoslo/moranprocess.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 	&lt;figcaption&gt;
 	&lt;a href=&quot;#&quot; title=&quot;&quot;&gt;&lt;b&gt;The Moran process.&lt;/b&gt; To describe the dynamics of a population of finite size we resort to stochastic processes. The Moran process is a birth-death process. That is, in time each step a birth event and a death event occur. The population size is maintained constant by a random death. If the population consists of say $i$ A individuals then in one time step the number of A can increase by one (with probability $T_i^+$) or decrease by one (with probability $T_i^-$ ) or stay the same (with probability $1-  T_i^+ - T_i^- $).&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -602,7 +743,7 @@ This happens with probability $1-T_i^+ - T_i^-$.&lt;/p&gt;
 However, we observe that for a small bias the average conditional fixation time is larger than that of a balanced process (without bias).&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://gokhalechaitanya.github.io/images/Figs_Stoslo/stoslooutline.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;/images/Figs_Stoslo/stoslooutline.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 	&lt;figcaption&gt;
 	&lt;a href=&quot;#&quot; title=&quot;&quot;&gt;&lt;b&gt;Bias towards A.&lt;/b&gt; Throughout the process there is a frequency dependent bias towards moving to an all A state. It diminishes in strength as the system gets closer to an all A state. Yet the time time required to get to the final state is greater than without such a bias.&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -611,7 +752,7 @@ However, we observe that for a small bias the average conditional fixation time 
 transition probabilities ($T_i^+$ and $T_i^-$).&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://gokhalechaitanya.github.io/images/Figs_Stoslo/stosloeffect.jpg&quot; width=&quot;50%&quot; height=&quot;50%&quot; alt=&quot;center&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;/images/Figs_Stoslo/stosloeffect.jpg&quot; width=&quot;50%&quot; height=&quot;50%&quot; alt=&quot;center&quot; /&gt;&lt;/a&gt;
 	&lt;figcaption&gt;
 	&lt;a href=&quot;#&quot; title=&quot;&quot;&gt;&lt;b&gt;Effect of increasing bias on components of conditional fixation time $\mathbf{\tau_1^{N}}$.&lt;/b&gt; The expression gives us the exact conditional fixation time $\tau_1^{N}$ for the Moran process beginning with a single mutant. If we introduce a frequency dependent bias such that we have $T_i^+ &amp;gt; T_i^-$, then we see that the ratio of transition probabilities and the inverse of $T_l^+$ decrease.
 On the contrary, the fixation probability, $\phi_l^N$, increases.
@@ -638,20 +779,20 @@ interference. Phys. Rev. B, 36:6255–6260, 1987.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a id=&quot;traulsen:2009&quot;&gt;A. Traulsen and C. Hauert. Stochastic evolutionary game dynamics. In H.-G. Schuster, editor,
 Reviews of nonlinear dynamics and complexity, pages 25–61. Wiley-VCH, 2009.&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://gokhalechaitanya.github.io/Paper4/&quot;&gt;Stochastic slowdown&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;http://gokhalechaitanya.github.io&quot;&gt;Explore&lt;/a&gt; on July 28, 2010.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/Paper4/&quot;&gt;Stochastic slowdown&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;&quot;&gt;Explore&lt;/a&gt; on July 28, 2010.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Evolutionary games in the multiverse]]></title>
- <link rel="alternate" type="text/html" href="http://gokhalechaitanya.github.io/Paper3/" />
-  <id>http://gokhalechaitanya.github.io/Paper3</id>
+ <link rel="alternate" type="text/html" href="/Paper3/" />
+  <id>/Paper3</id>
   <updated>2010-02-25T00:00:00-00:00</updated>
   <published>2010-02-25T00:00:00+01:00</published>
   
   <author>
     <name>Chaitanya S. Gokhale</name>
-    <uri>http://gokhalechaitanya.github.io</uri>
+    <uri></uri>
     <email>gokhale@evolbio.mpg.de</email>
   </author>
   <content type="html">&lt;h3 id=&quot;gokhale-cs-traulsen-a&quot;&gt;Gokhale CS, Traulsen A.&lt;/h3&gt;
@@ -672,7 +813,7 @@ Reviews of nonlinear dynamics and complexity, pages 25–61. Wiley-VCH, 2009.&lt
 &lt;p&gt;&lt;a href=&quot;#stander:1992&quot;&gt;Stander (1992)&lt;/a&gt; has described the hunting behaviour of lionesses on the open semi-arid plains of Namibia. Individual hunting tactics of lionesses were analysed from 486 independent group hunts. The lionesses hunt in packs and employ the flush and ambush technique. Some lie in ambush while others flush out the prey from the flanks and drive them towards the ones waiting in ambush. This technique needs an interaction of more than two players to succeed.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://gokhalechaitanya.github.io/images/Figs_Multiverse/stander.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;/images/Figs_Multiverse/stander.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 	&lt;figcaption&gt;
 	&lt;a href=&quot;#&quot; title=&quot;&quot;&gt;&lt;b&gt;Flush and Ambush.&lt;/b&gt; Taken from [Stander (1992)](#stander:1992) this sketch describes the flush and ambush technique used by the lionesses in Etosha National Park. Top panel reflects the position of the lionesses from the point of view of the prey. The bottom panel shows the attack positions of the lionesses. A-B form the left flank while F-G are the right flank. C-D-E take the centre position. This hunting set-up is not possible with just two lionesses.&lt;/a&gt;.&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -690,7 +831,7 @@ Let us begin with the well known scenario of two player games with two strategie
 There were two main analytical advances in evolutionary game theory in the study of finite populations for two player games with two strategies.&lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://gokhalechaitanya.github.io/images/Figs_Multiverse/general2by2by2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;/images/Figs_Multiverse/general2by2by2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 	&lt;figcaption&gt;
 	&lt;a href=&quot;#&quot; title=&quot;&quot;&gt;&lt;b&gt;Comparing two player games with three player games for two strategies.&lt;/b&gt; Writing the payoffs for three player games cannot be done in a square payoff matrix as two player games. Instead it is a table of permutations of a player playing with 2 other players. For two player games there are five possible outcomes. As the payoffs are linear in x there can be at most a single internal equilibrium. For three player games the payoffs are not linear in $x$ but of degree 2 leading to at most two possible solutions in the interior of the simplex.&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -757,20 +898,20 @@ B, 276:1379–1384, 2009.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a id=&quot;gokhale:2010&quot;&gt;C. S. Gokhale and A. Traulsen. Evolutionary games in the multiverse. Proc. Natl. Acad. Sci.
 U.S.A., 107(12):5500–5504, 2010.&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://gokhalechaitanya.github.io/Paper3/&quot;&gt;Evolutionary games in the multiverse&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;http://gokhalechaitanya.github.io&quot;&gt;Explore&lt;/a&gt; on February 25, 2010.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/Paper3/&quot;&gt;Evolutionary games in the multiverse&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;&quot;&gt;Explore&lt;/a&gt; on February 25, 2010.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[MtSNPscore]]></title>
- <link rel="alternate" type="text/html" href="http://gokhalechaitanya.github.io/Paper2/" />
-  <id>http://gokhalechaitanya.github.io/Paper2</id>
+ <link rel="alternate" type="text/html" href="/Paper2/" />
+  <id>/Paper2</id>
   <updated>2009-08-27T00:00:00-00:00</updated>
   <published>2009-08-27T00:00:00+02:00</published>
   
   <author>
     <name>Chaitanya S. Gokhale</name>
-    <uri>http://gokhalechaitanya.github.io</uri>
+    <uri></uri>
     <email>gokhale@evolbio.mpg.de</email>
   </author>
   <content type="html">&lt;h3 id=&quot;bhardwaj-a-mukerji-m-sharma-s-paul-j-gokhale-cs-srivastava-ak-et-al&quot;&gt;Bhardwaj A, Mukerji M, Sharma S, Paul J, Gokhale CS, Srivastava AK, &lt;em&gt;et al.&lt;/em&gt;&lt;/h3&gt;
@@ -794,20 +935,20 @@ U.S.A., 107(12):5500–5504, 2010.&lt;/a&gt;&lt;/p&gt;
 
 &lt;div&gt;&lt;a href=&quot;http://www.biomedcentral.com/content/pdf/1471-2105-10-S8-S7.pdf&quot; class=&quot;btn btn-info&quot;&gt;Download PDF&lt;/a&gt;&lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://gokhalechaitanya.github.io/Paper2/&quot;&gt;MtSNPscore&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;http://gokhalechaitanya.github.io&quot;&gt;Explore&lt;/a&gt; on August 27, 2009.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/Paper2/&quot;&gt;MtSNPscore&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;&quot;&gt;Explore&lt;/a&gt; on August 27, 2009.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Speed of Evolution]]></title>
- <link rel="alternate" type="text/html" href="http://gokhalechaitanya.github.io/Paper1/" />
-  <id>http://gokhalechaitanya.github.io/Paper1</id>
+ <link rel="alternate" type="text/html" href="/Paper1/" />
+  <id>/Paper1</id>
   <updated>2009-04-24T00:00:00-00:00</updated>
   <published>2009-04-24T00:00:00+02:00</published>
   
   <author>
     <name>Chaitanya S. Gokhale</name>
-    <uri>http://gokhalechaitanya.github.io</uri>
+    <uri></uri>
     <email>gokhale@evolbio.mpg.de</email>
   </author>
   <content type="html">&lt;h3 id=&quot;gokhale-cs-iwasa-y-nowak-ma-traulsen-a&quot;&gt;Gokhale CS, Iwasa Y, Nowak MA, Traulsen A.&lt;/h3&gt;
@@ -825,7 +966,7 @@ U.S.A., 107(12):5500–5504, 2010.&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;figure&gt;
-	&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://gokhalechaitanya.github.io/images/Figs_Pace/paperfig.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;/images/Figs_Pace/paperfig.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 	&lt;figcaption&gt;
 	&lt;a href=&quot;#&quot; title=&quot;&quot;&gt;Single path and Hypercube. Hypothetical fitness paths where only a fixed sequence of mutation can lead to the state of higher fitness (single path) or a multitude of paths lead to the ultimate state (hypercube). The intermediate states are all assumed to have the same fitness s as compared to the fitness of the initial state considered to be 1 and the final state as r_d.&lt;/a&gt;.&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -848,7 +989,7 @@ U.S.A., 107(12):5500–5504, 2010.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The framework developed here can serve as a reference case for evolution in real fitness landscapes, as it can be easily extended to incorporate the complexity and variation seen in experimental studies, Fig. 2.2. &lt;/p&gt;
 
 &lt;figure&gt;
-	&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://gokhalechaitanya.github.io/images/Figs_Pace/experimentpaths.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;/images/Figs_Pace/experimentpaths.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 	&lt;figcaption&gt;
 	&lt;a href=&quot;#&quot; title=&quot;&quot;&gt;Examples of experimentally constructed fitness landscapes. The images collated from: (a) [Weinreich et al. (2006)](#weinreich:2006): Mutational paths in the β lactamase gene conferring resistance to bacteria from β lactam antibiotics where were found to be viable.(b) [Lozovsky et al. (2009)](#lozovsky:2009): The major inferred pathways for the evolution of pyrimethamine resistance. (c) [Lee et al. (1997)](#lee:1997): All paths between the 5srRNA sequences of *Vibrio proteolyticus* and *V. nereis* at the three positions where they differ.&lt;/a&gt;.&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -868,7 +1009,7 @@ U.S.A., 107(12):5500–5504, 2010.&lt;/a&gt;&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;figure&gt;
-	&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://gokhalechaitanya.github.io/images/Figs_Pace/mutationspectrum.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+	&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;/images/Figs_Pace/mutationspectrum.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
 	&lt;figcaption&gt;
 	&lt;a href=&quot;#&quot; title=&quot;&quot;&gt;Regimes of mutation rates. (a) If mutation rates are very low then the system is monomorphic most of the time, occasionally a mutation occurs and it can either go extinct or reach fixation. This scenario can be captured analytically. (b) For intermediate mutation rates multiple mutants can coexist and the situation is difficult to characterise analytically. (c) For high mutation rates the dynamics can be approximated by differential equations again yielding tractable results.&lt;/a&gt;.&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -932,7 +1073,7 @@ tumor progression. Proc. Natl. Acad. Sci. U.S.A., Early Edition, September 2010.
 &lt;p&gt;&lt;a id=&quot;lynch:2010b&quot;&gt;M. Lynch. Scaling expectations for the time to establishment of complex adaptations. Proc.
 Natl. Acad. Sci. USA, Early edition, 2010.&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://gokhalechaitanya.github.io/Paper1/&quot;&gt;Speed of Evolution&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;http://gokhalechaitanya.github.io&quot;&gt;Explore&lt;/a&gt; on April 24, 2009.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/Paper1/&quot;&gt;Speed of Evolution&lt;/a&gt; was originally published by Chaitanya S. Gokhale at &lt;a href=&quot;&quot;&gt;Explore&lt;/a&gt; on April 24, 2009.&lt;/p&gt;</content>
 </entry>
 
 </feed>
