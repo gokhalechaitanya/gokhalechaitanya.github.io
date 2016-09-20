@@ -25,7 +25,7 @@ ___
 
 #### April 2016 -
 
-* Group Leader - Research Group for Theoretical Models of for Eco-evolutionary Dynamics at the [Max Planck Institute for Evolutionary Biology, Plön](http://www.evolbio.mpg.de)
+* Group Leader - [Research Group for Theoretical Models of Eco-evolutionary Dynamics](http://www.evolbio.mpg.de/3137411/gokhale) at the [Max Planck Institute for Evolutionary Biology, Plön](http://www.evolbio.mpg.de)
 
 #### March 2014 - March 2016
 
