@@ -105,4 +105,4 @@ ___
 </ol>  
 
 
-<div markdown="0"><a href="{{ site.url }}/images/Gokhale_CV.pdf" class="btn btn-info">Download as a PDF</a></div>
+[//]: # <div markdown="0"><a href="{{ site.url }}/images/Gokhale_CV.pdf" class="btn btn-info">Download as a PDF</a></div>
