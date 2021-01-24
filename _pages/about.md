@@ -42,7 +42,6 @@ header:
 
 #### Previous
 
-| 2021-2024         |  |
 | Royal Society of New Zealand  | Marsden Fund, Associate Investigator with Paul Rainey: “Lineage selection and evolution of cancer" |
 | DFG Priority Program | SPP 1590 Principal Investigator grant - “Probabilistic Structures in Evolution” |
 | Otto Hahn Medal  |	Max Planck Society |
