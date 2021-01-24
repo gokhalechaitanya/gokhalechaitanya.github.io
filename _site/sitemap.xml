@@ -1,142 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc></loc>
-    </url>
-    
-    
-    <url>
-        <loc>/404.html</loc>
-    </url>
-    
-    <url>
-        <loc>/peerfree/XV/</loc>
-    </url>
-    
-    <url>
-        <loc>/about/</loc>
-    </url>
-    
-    <url>
-        <loc>/articles/</loc>
-    </url>
-    
-    <url>
-        <loc>/feed.xml</loc>
-    </url>
-    
-    <url>
-        <loc>/index.html</loc>
-    </url>
-    
-    <url>
-        <loc>/learn/</loc>
-    </url>
-    
-    <url>
-        <loc>/otherpubs/</loc>
-    </url>
-    
-    <url>
-        <loc>/photography/</loc>
-    </url>
-    
-    <url>
-        <loc>/research/</loc>
-    </url>
-    
-    <url>
-        <loc>/sitemap.xml</loc>
-    </url>
-    
-    <url>
-        <loc>/tags/</loc>
-    </url>
-    
-    <url>
-        <loc>/page2/index.html</loc>
-    </url>
-    
-    <url>
-        <loc>/page3/index.html</loc>
-    </url>
-    
-    <url>
-        <loc>/page4/index.html</loc>
-    </url>
-    
-
-    
-    <url>
-        <loc>/Paper16/</loc>
-    </url>
-    
-    <url>
-        <loc>/Paper15/</loc>
-    </url>
-    
-    <url>
-        <loc>/Paper14/</loc>
-    </url>
-    
-    <url>
-        <loc>/Paper14Wolfram/</loc>
-    </url>
-    
-    <url>
-        <loc>/Paper13/</loc>
-    </url>
-    
-    <url>
-        <loc>/Paper12/</loc>
-    </url>
-    
-    <url>
-        <loc>/Paper11/</loc>
-    </url>
-    
-    <url>
-        <loc>/Paper11Wolfram/</loc>
-    </url>
-    
-    <url>
-        <loc>/Paper10/</loc>
-    </url>
-    
-    <url>
-        <loc>/Paper9/</loc>
-    </url>
-    
-    <url>
-        <loc>/Paper8/</loc>
-    </url>
-    
-    <url>
-        <loc>/Paper7/</loc>
-    </url>
-    
-    <url>
-        <loc>/Paper6/</loc>
-    </url>
-    
-    <url>
-        <loc>/Paper5/</loc>
-    </url>
-    
-    <url>
-        <loc>/Paper4/</loc>
-    </url>
-    
-    <url>
-        <loc>/Paper3/</loc>
-    </url>
-    
-    <url>
-        <loc>/Paper2/</loc>
-    </url>
-    
-    <url>
-        <loc>/Paper1/</loc>
-    </url>
-    
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/about/</loc>
+</url>
+<url>
+<loc>/</loc>
+</url>
+<url>
+<loc>/outreach/</loc>
+</url>
+<url>
+<loc>/publications/</loc>
+</url>
+<url>
+<loc>/splash-page/</loc>
+</url>
 </urlset>
