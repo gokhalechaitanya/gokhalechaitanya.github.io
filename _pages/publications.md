@@ -41,20 +41,18 @@ If the paper you are interested in is not freely available then drop me an email
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`2020`
 0. Gokhale, C.S., Park, H-J., Eco-evolutionary Spatial dynamics of Non-linear Social Dilemmas, in *Advances in Dynamic Games*, eds. David M. Ramsey and Jérôme Renault  [bioRxiv version-660266](https://doi.org/10.1101/660266)
 
-, 2017. Discovering Complete Quasispecies in Bacterial Genomes. *Genetics*, 206(4), pp.2149–2157.
-
 ### Journal articles
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ```
 2021
 ```
 
-0.  Park, H.J.$ , Gokhale, C.S.$ , Bertels, F. (**$joint first authors**), 2021. How sequence populations persist inside bacterial genomes *Genetics* forthcoming [bioRxiv-170514](https://dx.doi.org/10.1101/2020.06.25.170514)
+0.  Park, H.J.$ , Gokhale, C.S.$ , Bertels, F. (**$joint first authors**), 2021. How sequence populations persist inside bacterial genomes *Genetics* forthcoming [bioRxiv-version-170514](https://dx.doi.org/10.1101/2020.06.25.170514)
 ```
 2020
 ```
 0.  Denton, J.A., Gokhale, C.S., (joint first authors) 2020. Synthetic symbiosis under environmental disturbances.  *mSystems*, 5 (3) [bioRxiv version-395426](https://doi.org/10.1101/395426)
-0.  Bargués-Ribera, M., Gokhale, C.S., 2020. Eco-evolutionary agriculture: host-pathogen dynamics in crop rotations. *PLOS Computational Biology*, 16(1): e1007546 [bioRxiv-402313](https://doi.org/10.1101/402313)
+0.  Bargués-Ribera, M., Gokhale, C.S., 2020. Eco-evolutionary agriculture: host-pathogen dynamics in crop rotations. *PLOS Computational Biology*, 16(1): e1007546 [bioRxiv-version-402313](https://doi.org/10.1101/402313)
 ```
 2019
 ```
