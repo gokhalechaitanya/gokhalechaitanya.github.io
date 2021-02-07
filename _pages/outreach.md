@@ -36,27 +36,31 @@ header:
 
 ## Seminars/Talks
 
-*Behaviour and Evolution seminars - University of Bielefeld*
+### 2021
 
-2020 Evolutionary Games: from cells to societies
+- **Carnegie Mellon Univerity**, Eco-evolutionary dynamics | from cells to societies - the control problem.
 
-*Bachelors course lecture series of Prof. Hinrich Schulenburg (Christian Albrechts University, Kiel)*
+### 2020
 
-2016
+- **University of Bielefeld**, Behaviour and Evolution seminars - Evolutionary Games: from cells to societies
 
-- Co-evolution
-- Evolutionary Game Theory
+- *Bachelors course lecture series of Prof. Hinrich Schulenburg (Christian Albrechts University, Kiel)*
+	- Evolutionary games: from cells to societies
+	- Evolutionary games: cooperation
 
-2020
+### 2019
 
-- Evolutionary games: from cells to societies
-- Evolutionary games: cooperation
+- *Lecture series of Prof. Arne Traulsen (University of Lübeck)*
 
-*Lecture series of Prof. Arne Traulsen (University of Lübeck)*
+	- Evolutionary multiplayer games
 
-2019
 
-- Evolutionary multiplayer games
+### 2016
+
+- *Bachelors course lecture series of Prof. Hinrich Schulenburg (Christian Albrechts University, Kiel)*
+	- Co-evolution
+	- Evolutionary Game Theory
+
 
 ### Public talks in German
 
