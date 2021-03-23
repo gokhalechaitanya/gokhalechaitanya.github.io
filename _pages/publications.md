@@ -35,11 +35,6 @@ If the paper you are interested in is not freely available then drop me an email
 
 ## Peer-reviewed
 
-### Book Chapter
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`2020`
-0. Gokhale, C.S., Park, H-J., Eco-evolutionary Spatial dynamics of Non-linear Social Dilemmas, in *Advances in Dynamic Games*, eds. David M. Ramsey and Jérôme Renault  [bioRxiv version-660266](https://doi.org/10.1101/660266)
-
 ### Journal articles
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     ```
@@ -47,7 +42,7 @@ If the paper you are interested in is not freely available then drop me an email
     ```
 
 0. Venkateswaran, V.R., Roth, O., Gokhale, C.S., 2021. Consequences of combining sex-specific traits. *Evolution* forthcoming [bioRxiv-version-892810](https://doi.org/10.1101/2020.01.03.892810)
-0.  Park, H.J.$ , Gokhale, C.S.$ , Bertels, F. (**$joint first authors**), 2021. How sequence populations persist inside bacterial genomes. *Genetics* forthcoming [bioRxiv-version-170514](https://dx.doi.org/10.1101/2020.06.25.170514)
+0.  Park, H.J.$ , Gokhale, C.S.$ , Bertels, F. (**$joint first authors**), 2021. How sequence populations persist inside bacterial genomes. *Genetics* doi:10.1093/genetics/iyab027 [bioRxiv-version-170514](https://dx.doi.org/10.1101/2020.06.25.170514)
 
     ```
     2020
@@ -125,6 +120,12 @@ If the paper you are interested in is not freely available then drop me an email
     ```
 0.  Gokhale, C.S., Iwasa, Y., Nowak, M., Traulsen A., 2009. The pace of evolution across fitness valleys. Journal of Theoretical Biology, 259(3), 613–620.
 0.  Bhardwaj, A., Mukerji, M., Sharma, S., Paul, J., Gokhale, C.S., Srivastava, A.K., Tiwari, S., 2009. MtSNPscore: a combined evidence approach for assessing cumulative impact of mitochondrial variations in disease., BMC Bioinformatics, 10 Suppl 8, S7.
+
+### Book Chapter
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`2020`
+0. Gokhale, C.S., Park, H-J., Eco-evolutionary Spatial dynamics of Non-linear Social Dilemmas, in *Advances in Dynamic Games*, eds. David M. Ramsey and Jérôme Renault  [bioRxiv version-660266](https://doi.org/10.1101/660266)
+
 
 <!-- Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
 
