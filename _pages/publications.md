@@ -33,9 +33,9 @@ If the paper you are interested in is not freely available then drop me an email
 * Rabajante, J.F., Anzia, E.L., Gokhale, C.S., On a mechanistic process of macroparasite aggregation, [bioRxiv-680041](https://doi.org/10.1101/680041)
 * Gokhale, C.S., Wignall, A.E., On the innovation and evolution of predatory tactics, [bioRxiv-530238](https://doi.org/10.1101/530238)
 
-#### Book review
+### Book review
 
-Gokhale, C.S. and Traulsen, A.T., Rethinking the origins of biological games, reviewing *Game Theory in Biology: Concepts and Frontiers by 
+- Gokhale, C.S. and Traulsen, A.T., Rethinking the origins of biological games, reviewing *Game Theory in Biology: Concepts and Frontiers by 
 John M. McNamara and Olof Leimar* for the International Society for Behavioural Ecology [newsletter](https://static1.squarespace.com/static/56e7c4be37013b080105e202/t/606dd114ea65bd0b5e920ac7/1617809689459/ISBE+newsletter+2021+33_1.pdf)
 
 ## Peer-reviewed
