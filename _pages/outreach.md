@@ -34,11 +34,32 @@ header:
 - Cooperation and Conflict
 - Evolutionary Game Theory
 
+### Lübeck 
+
+2019
+
+- *Lecture series of Prof. Arne Traulsen (University of Lübeck)*
+
+	- Evolutionary multiplayer games
+
+### Kiel
+
+2016 - 2018 - 2019
+
+- *Bachelors course lecture series of Prof. Hinrich Schulenburg (Christian Albrechts University, Kiel)*
+	- Co-evolution
+	- Evolutionary Game Theory
+
 ## Seminars/Talks
+
+### Upcoming
+
+- eSMB 2021
+- June 21-24 2021 Gene drive Workshop ANR TheoGeneDrive
 
 ### 2021
 
-- **Carnegie Mellon Univerity**, Eco-evolutionary dynamics | from cells to societies - the control problem.
+- **Carnegie Mellon Univerity**, Eco-evolutionary dynamics from cells to societies \| the control problem.
 
 ### 2020
 
@@ -48,19 +69,6 @@ header:
 	- Evolutionary games: from cells to societies
 	- Evolutionary games: cooperation
 
-### 2019
-
-- *Lecture series of Prof. Arne Traulsen (University of Lübeck)*
-
-	- Evolutionary multiplayer games
-
-
-### 2016
-
-- *Bachelors course lecture series of Prof. Hinrich Schulenburg (Christian Albrechts University, Kiel)*
-	- Co-evolution
-	- Evolutionary Game Theory
-
 
 ### Public talks in German
 
@@ -68,6 +76,8 @@ header:
 - 2017, Public Lecture: “Evolutionäre Spieltheorie”
 
 ## Organized seminars
+
+* 2021: Theory in Spring series - Meike Wittmann, Anne Kandler, Helen Alexander
 
 * <s>2021:	Darwinian Demons | Eco-evolutionary dynamics and Information theory, co-organised with Minus van Baalen</s> (postponed to 2022)
 
