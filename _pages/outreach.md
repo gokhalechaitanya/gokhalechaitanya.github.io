@@ -21,6 +21,16 @@ header:
 <cite>Richard Feynman</cite>
 {: .small}
 
+## Media
+
+Podcast
+
+* 2021: Max Planck Society Youtube Channel - [“Gene Drive – ein Turbo für Gene | Wissen Was mit @MrWissen2go
+​”](https://youtu.be/TP1NWy1izaQ)
+
+* 2020: 	detektor.fm on [“Forschungsquartett \| Chancen und Risiken der Genschere”](https://detektor.fm/wissen/forschungsquartett-crisprcas9-gene-drive)
+
+
 ## Teaching
 
 ### Massey University - Structured Undergraduate Program
@@ -87,6 +97,3 @@ header:
 
 * 2017:	Bionomics \| The Biology and Economics of Mutualisms, co-organised with Jorge Peña.
 
-## Podcast
-
-* 2020: 	detektor.fm on [“Forschungsquartett \| Chancen und Risiken der Genschere”](https://detektor.fm/wissen/forschungsquartett-crisprcas9-gene-drive)
