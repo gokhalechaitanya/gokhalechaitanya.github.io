@@ -25,9 +25,9 @@ If the paper you are interested in is not freely available then drop me an email
 
 ## Preprints
 
-* Gokhale, C.S., Giamo, S., and Remigi, P. Memory shapes microbial populations, [bioRxiv-370106](https://doi.org/10.1101/2020.11.05.370106)
+* Gao, Y., Pichugin, Y., Gokhale, C.S., and Traulsen, A. Evolution of reproductive strategies in incipient multicellularity. [bioRxiv-2021.09.13.460035](https://doi.org/10.1101/2021.09.13.460035)
+* Verma, P., Reeves, R. G., Simon, S. Otto, M. and Gokhale, C. S. 2021 The effect of mating complexity on gene drive dynamics.[bioRxiv-2021.09.16.460618](https://doi.org/10.1101/2021.09.16.460618)
 * Gokhale, C.S., Bulbulia, J., and Frean, M. Collective Narratives Catalyse Cooperation. SocArXiv. [doi:10.31235/osf.io/jnu87](https://osf.io/preprints/socarxiv/jnu87/)
-* Verma, P., Reeves, R.G., Gokhale, C.S., A unifying approach to gene drive, [bioRxiv-970103](https://doi.org/10.1101/2020.02.28.970103)
 * Bargués-Ribera, M., Reeves, R.G., Gokhale, C.S., Eco-evolutionary dynamics of Plasmodium genotypes under mass drug administration, [bioRxiv-818039](https://doi.org/10.1101/818039)
 * Rabajante, J.F., Anzia, E.L., Gokhale, C.S., On a mechanistic process of macroparasite aggregation, [bioRxiv-680041](https://doi.org/10.1101/680041)
 * Gokhale, C.S., Wignall, A.E., On the innovation and evolution of predatory tactics, [bioRxiv-530238](https://doi.org/10.1101/530238)
@@ -45,6 +45,8 @@ John M. McNamara and Olof Leimar* for the International Society for Behavioural 
     2021
     ```
 
+0. Gokhale, C.S., Giamo, S., & Remigi, P. 2021 Memory shapes microbial populations, *PLoS Computational Biology, 17, e1009431* [bioRxiv-370106](https://doi.org/10.1101/2020.11.05.370106)
+0. Verma, P., Reeves, R. G. & Gokhale, C. S. 2021 A common gene drive language eases regulatory process and eco-evolutionary extensions. *BMC Ecol Evol* 21, 156. [bioRxiv-970103](https://doi.org/10.1101/2020.02.28.970103)
 0. Mafessoni, F., Lachmann, M., Gokhale, C.S., 2021 On the fitness of informative cues in complex environments. *Journal of Theoretical Biology* *in press* [bioRxiv-066571](https://doi.org/10.1101/2020.04.28.066571)
 0. Venkateswaran, V.R., Roth, O., Gokhale, C.S., 2021. Consequences of combining sex-specific traits. *Evolution* forthcoming [bioRxiv-version-892810](https://doi.org/10.1101/2020.01.03.892810)
 0.  Park, H.J.$ , Gokhale, C.S.$ , Bertels, F. (**$joint first authors**), 2021. How sequence populations persist inside bacterial genomes. *Genetics* doi:10.1093/genetics/iyab027 [bioRxiv-version-170514](https://dx.doi.org/10.1101/2020.06.25.170514)
