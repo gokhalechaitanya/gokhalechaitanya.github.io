@@ -82,6 +82,7 @@ Osaka, Japan - Dynamics of a combined Medea-Underdominant Population Transformat
 * ``European Society for Evolutionary Biology``
 Lausanne, Switzerland - Winning the marathon | multiplayer games in the mutation selection equilibrium
 
+
 ```
 2016
 ```
@@ -100,43 +101,42 @@ Cancun, Mexico - Origins of life and Evolutionary games: Exploring the nonlinear
 * ``Max Planck Institute Public Talk in German``, Ploen, Germany - Evolutionäre Spieltheorie
 * ``Summer school "Impacts and their role in the evolution of life"``, Saarema, Estonia, Impact of stochasticity on the origins and evolution of life
 * Organised workshop ``Bionomics: The biology and economics of mutualisms`` with Jorge Peña
- 	- Speakers: Olivia Roth (Helmholtz Center for Ocean Research, GEOMAR), Michelle Afkhami (University of Miami), Megan Frederickson (University of Toronto), Erol Akçay (University of Pennsylvania), Claire Spottiswoode (University of Cape Town and University of Cambridge)
+	- Speakers: Olivia Roth (Helmholtz Center for Ocean Research, GEOMAR), Michelle Afkhami (University of Miami), Megan Frederickson (University of Toronto), Erol Akçay (University of Pennsylvania), Claire Spottiswoode (University of Cape Town and University of Cambridge)
 
 
 ```
 2018
 ```
 * Organised seminar series ``Year of Mathematical Biology`` with Linda Odenthal-Hesse
- 	- Speakers: Hanna Kokko, Nick Barton, Michael Doebeli, Michael Lynch, Alison Etheridge, Pleuni Pennings
+	- Speakers: Hanna Kokko, Nick Barton, Michael Doebeli, Michael Lynch, Alison Etheridge, Pleuni Pennings
 * ``Max Planck Day Public Talk in German``, Ploen, Germany - Max Planck in Plön: Kleine Stadt Große Auswirkung
 * ``University of Tartu`` Tartu, Estonia, Evolutionary games and ecological dynamics: from mutualism to antagonism
-* ``European Astrobiology Institute workshop`` Tartu, Estonia, Engineering Cooperation | From hypercycles to synthetic biology
+* ``European Astrobiology Institute workshop`` Tartu, Estonia, Engineering Cooperation: From hypercycles to synthetic biology
 
 ```
 2019
 ```
-* ``International Workshop on Mathematical Biology``, Bohol, Philippines - Eco-evolutionary game dynamics | from cells to societies
-* ``Workshop on the Dynamics of Interdependent Decision`` Delmenhorst, Germany, Eco-evolutionary game dynamics | from cells to societies
-* ``Mathematical Models of Ecology and Evolution`` Lyon, France, Beliefs | A catalyst for cooperation
+* ``International Workshop on Mathematical Biology``, Bohol, Philippines - Eco-evolutionary game dynamics : from cells to societies
+* ``Workshop on the Dynamics of Interdependent Decision`` Delmenhorst, Germany, Eco-evolutionary game dynamics : from cells to societies
+* ``Mathematical Models of Ecology and Evolution`` Lyon, France, Beliefs : A catalyst for cooperation
 
 
 ```
 2020
 ```
-* ``Visit - Meike Wittmann``, Bielefeld, Germany, Eco-evolutionary dynamics | from cells to societies
-* ``Workshop on the Dynamics of Interdependent Decision`` Delmenhorst, Germany, Eco-evolutionary game dynamics | from cells to societies
-* Organised minisymposium in eSMB 2020 ``Eco-evolutionary dynamics across scales of organisation`` with Meike Wittmann
+* ``Visit - Meike Wittmann``, Bielefeld, Germany, Eco-evolutionary dynamics : from cells to societies
+* ``Workshop on the Dynamics of Interdependent Decision`` Delmenhorst, Germany, Eco-evolutionary game dynamics : from cells to societies
+* Organised minisymposium in eSMB 2020 ``Eco-evolutionary dynamics across scales of organisation`` with Meike Wittmann,
  	- Speakers: Paula Vasconcelos, Lynn Govaert, Charles Mullon, Joseph Sardanyes
 * ``Translational Biology, Kiel`` Kiel, Germany, Eco-evolutionary dynamics in agriculture
-* ``Institute for Advanced Study, Toulouse`` Toulouse, France, Eco-evolutionary dynamcis | from cells to societies
+* ``Institute for Advanced Study, Toulouse`` Toulouse, France, Eco-evolutionary dynamcis : from cells to societies
 * ``Institute for Advanced Study, Toulouse - Theory seminar`` Toulouse, France, Collective narratives catalyse cooperation
 
 ```
 2021
 ```
-* ``eVisit - Oana Carja``, Carnegie-Mellon, USA, Eco-evolutionary dynamics | from cells to societies
+* ``eVisit - Oana Carja``, Carnegie-Mellon, USA, Eco-evolutionary dynamics : from cells to societies
 * ``e - Society for Mathematical Biology`` online, Synthetic gene-drives and the control problem
 * ``University of Muenster Biology Seminar series`` Muenster, Germany, Collective narratives catalyse cooperation
 * ``Gene Drive workshop ANR - Florence Debarre`` online, Synthetic gene-drives and the control problem
-* ``Evogames+ Winter School`` online, Ecolutionary games | Thinking beyond the dyad
-* ``Institute for Advanced Study, Toulouse - Theory seminar`` Toulouse, France, Collective narratives catalyse cooperation
+* ``Evogames+ Winter School`` online, Ecolutionary games : Thinking beyond the dyad

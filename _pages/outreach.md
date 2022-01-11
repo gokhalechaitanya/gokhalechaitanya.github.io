@@ -50,15 +50,11 @@ Podcast
 
 - *Lecture series of Prof. Arne Traulsen (University of Lübeck)*
 
-	- Evolutionary multiplayer games
-
 ### Kiel
 
 2016 - 2018 - 2019
 
 - *Bachelors course lecture series of Prof. Hinrich Schulenburg (Christian Albrechts University, Kiel)*
-	- Co-evolution
-	- Evolutionary Game Theory
 
 ## Seminars/Talks
 
