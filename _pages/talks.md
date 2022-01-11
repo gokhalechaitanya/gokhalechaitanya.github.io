@@ -125,7 +125,6 @@ Cancun, Mexico - Origins of life and Evolutionary games: Exploring the nonlinear
 2020
 ```
 * ``Visit - Meike Wittmann``, Bielefeld, Germany, Eco-evolutionary dynamics : from cells to societies
-* ``Workshop on the Dynamics of Interdependent Decision`` Delmenhorst, Germany, Eco-evolutionary game dynamics : from cells to societies
 * Organised minisymposium in eSMB 2020 ``Eco-evolutionary dynamics across scales of organisation`` with Meike Wittmann,
  	- Speakers: Paula Vasconcelos, Lynn Govaert, Charles Mullon, Joseph Sardanyes
 * ``Translational Biology, Kiel`` Kiel, Germany, Eco-evolutionary dynamics in agriculture

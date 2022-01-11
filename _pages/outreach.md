@@ -21,6 +21,31 @@ header:
 <cite>Richard Feynman</cite>
 {: .small}
 
+## Seminars/Talks
+
+### Upcoming
+
+January 2022
+
+- Santa Fe Institute - "Constructing and Deconstructing Collectives: Signals to Space and Society" (online) 
+- Fifth Bangalore School on Population Genetics and Evolution (ONLINE)
+
+February 2022
+
+- City University London (online)
+
+March 2022
+
+- Public Lecture at the MPI
+
+for a a complete list check out [Talks](/talks/)
+
+
+### Public talks in German
+
+- 2018, Max Planck Day: “Max Planck in Plön: Kleine Stadt Große Auswirkung”
+- 2017, Public Lecture: “Evolutionäre Spieltheorie”
+
 ## Media
 
 Podcast
@@ -56,20 +81,6 @@ Podcast
 
 - *Bachelors course lecture series of Prof. Hinrich Schulenburg (Christian Albrechts University, Kiel)*
 
-## Seminars/Talks
-
-### Upcoming
-
-- eSMB 2021
-- June 21-24 2021 Gene drive Workshop ANR TheoGeneDrive
-
-for a a complete lists check out [Talks](/talks/)
-
-
-### Public talks in German
-
-- 2018, Max Planck Day: “Max Planck in Plön: Kleine Stadt Große Auswirkung”
-- 2017, Public Lecture: “Evolutionäre Spieltheorie”
 
 ## Organized seminars
 
