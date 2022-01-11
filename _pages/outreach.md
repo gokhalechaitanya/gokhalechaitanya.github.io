@@ -38,7 +38,7 @@ March 2022
 
 - Public Lecture at the MPI
 
-for a a complete list check out [Talks](/talks/)
+for a complete list check out [Talks](/talks/)
 
 
 ### Public talks in German
