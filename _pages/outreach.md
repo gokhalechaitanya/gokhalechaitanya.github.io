@@ -67,17 +67,7 @@ Podcast
 - eSMB 2021
 - June 21-24 2021 Gene drive Workshop ANR TheoGeneDrive
 
-### 2021
-
-- **Carnegie Mellon Univerity**, Eco-evolutionary dynamics from cells to societies \| the control problem.
-
-### 2020
-
-- **University of Bielefeld**, Behaviour and Evolution seminars - Evolutionary Games: from cells to societies
-
-- *Bachelors course lecture series of Prof. Hinrich Schulenburg (Christian Albrechts University, Kiel)*
-	- Evolutionary games: from cells to societies
-	- Evolutionary games: cooperation
+for a a complete lists check out [Talks](/talks/)
 
 
 ### Public talks in German
