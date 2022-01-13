@@ -43,12 +43,19 @@ John M. McNamara and Olof Leimar* for the International Society for Behavioural 
 ### Journal articles
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     ```
+    2022
+    ```
+
+0. Traulsen, A., Gokhale, C.S., Shah, S. & Uecker, H. The Covid-19 pandemic: Basic insights from basic mathematical models, forthcoming *NAL Live - Nationale Akademie Leopoldina*
+
+
+    ```
     2021
     ```
 
 0. Gokhale, C.S., Giamo, S., & Remigi, P. 2021 Memory shapes microbial populations, *PLoS Computational Biology, 17, e1009431* [bioRxiv-370106](https://doi.org/10.1101/2020.11.05.370106)
 0. Verma, P., Reeves, R. G. & Gokhale, C. S. 2021 A common gene drive language eases regulatory process and eco-evolutionary extensions. *BMC Ecol Evol* 21, 156. [bioRxiv-970103](https://doi.org/10.1101/2020.02.28.970103)
-0. Mafessoni, F., Lachmann, M., Gokhale, C.S., 2021 On the fitness of informative cues in complex environments. *Journal of Theoretical Biology* *in press* [bioRxiv-066571](https://doi.org/10.1101/2020.04.28.066571)
+0. Mafessoni, F., Lachmann, M., Gokhale, C.S., 2021 On the fitness of informative cues in complex environments. *Journal of Theoretical Biology*, 527, 110819 [bioRxiv-066571](https://doi.org/10.1101/2020.04.28.066571)
 0. Venkateswaran, V.R., Roth, O., Gokhale, C.S., 2021. Consequences of combining sex-specific traits. *Evolution* forthcoming [bioRxiv-version-892810](https://doi.org/10.1101/2020.01.03.892810)
 0.  Park, H.J.$ , Gokhale, C.S.$ , Bertels, F. (**$joint first authors**), 2021. How sequence populations persist inside bacterial genomes. *Genetics* doi:10.1093/genetics/iyab027 [bioRxiv-version-170514](https://dx.doi.org/10.1101/2020.06.25.170514)
 
