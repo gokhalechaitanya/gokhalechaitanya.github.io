@@ -136,6 +136,13 @@ Cancun, Mexico - Origins of life and Evolutionary games: Exploring the nonlinear
 ```
 * ``eVisit - Oana Carja``, Carnegie-Mellon, USA, Eco-evolutionary dynamics : from cells to societies
 * ``e - Society for Mathematical Biology`` online, Synthetic gene-drives and the control problem
-* ``University of Muenster Biology Seminar series`` Muenster, Germany, Collective narratives catalyse cooperation
+* ``University of Muenster Biology Seminar series: The Growth of the Evolutionary Thought `` Muenster, Germany, Collective narratives catalyse cooperation
 * ``Gene Drive workshop ANR - Florence Debarre`` online, Synthetic gene-drives and the control problem
-* ``Evogames+ Winter School`` online, Ecolutionary games : Thinking beyond the dyad
+* ``Evogames+ Winter School`` online, Evolutionary games : Thinking beyond the dyad
+
+```
+2022
+```
+* ``Santa Fe Institute`` - "Constructing and Deconstructing Collectives: Signals to Space and Society" (online) - Collective Narratives Catalyse cooperation
+* ``Fifth Bangalore School on Population Genetics and Evolution`` (ONLINE) - Plurality in evolutionary theory - games and genes
+* ``Mathematics Symposium, City University``, London (online) - Collective Narratives Catalyse cooperation

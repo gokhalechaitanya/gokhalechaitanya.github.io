@@ -25,18 +25,9 @@ header:
 
 ### Upcoming
 
-January 2022
-
-- Santa Fe Institute - "Constructing and Deconstructing Collectives: Signals to Space and Society" (online) 
-- Fifth Bangalore School on Population Genetics and Evolution (ONLINE)
-
-February 2022
-
-- City University London (online)
-
 March 2022
 
-- Public Lecture at the MPI
+- Public Lecture at the MPI - ``Die Macht der Propaganda - Die Bedeutung von Geschichten für kollektives Handeln``
 
 for a complete list check out [Talks](/talks/)
 
@@ -83,6 +74,14 @@ Podcast
 
 
 ## Organized seminars
+
+Upcoming
+
+* 2022: The Future of Games in Biology with John McNamara and Olof Leimar
+
+---
+
+Past
 
 * 2021: Theory in Spring series - Meike Wittmann, Anne Kandler, Helen Alexander
 
