@@ -25,17 +25,20 @@ header:
 
 ### Upcoming
 
-March 2022
+- May 2022 Max Planck Institute for Astronomy in Heidelberg, ``Towards Molecular Complexity: At the crossroads between astrophysics and biochemistry``
 
-- Public Lecture at the MPI - ``Die Macht der Propaganda - Die Bedeutung von Geschichten für kollektives Handeln``
+- June 2022 Graz, Austria Workshop on game theory in fauna and flora
+
+- July 2022, NetSci 2022, Shanghai (online) Satellite Symposia -- ``Evolution of cooperation and game dynamics in networked systems``
 
 for a complete list check out [Talks](/talks/)
 
 
 ### Public talks in German
 
-- 2018, Max Planck Day: “Max Planck in Plön: Kleine Stadt Große Auswirkung”
-- 2017, Public Lecture: “Evolutionäre Spieltheorie”
+- 2022, Public Lecture at the MPI: ``Die Macht der Propaganda - Die Bedeutung von Geschichten für kollektives Handeln``
+- 2018, Max Planck Day: ``Max Planck in Plön: Kleine Stadt Große Auswirkung``
+- 2017, Public Lecture: ``Evolutionäre Spieltheorie``
 
 ## Media
 
