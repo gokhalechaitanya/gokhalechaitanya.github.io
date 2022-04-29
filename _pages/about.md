@@ -29,23 +29,26 @@ header:
 
 #### Ongoing
 
-| April         |  |
+| April  2022      |  |
 | Office of Technology Assessment at the German Bundestag (TAB)    | Invited as a scientific expert to attend the discussion - ``TA im Dialog: Impfungen und Gene Drives gegen Malaria`` |
 | 2021-2024         |  |
 | Marie Curie Innovative Training Network    | EvoGames+ , Theoretical Developments and Applications in Evolutionary Games     |
-| 2020-2021 | |
-| Bundesamt für Naturschutz (Federal Agency for Nature Conservation), Germany |		Original Project extension - Potential risks of synthetic gene-drive for monitoring.|
 | 2019-2022 | |
 | KAKENHI Project, Japan (with Jai Denton) | Project 19K06795 - Understanding How The Environment Shapes Mutualism |
+
+#### Previous
+
+| 2020-2021 | |
+| Bundesamt für Naturschutz (Federal Agency for Nature Conservation), Germany |		Original Project extension - Potential risks of synthetic gene-drive for monitoring.|
 | 2019-2020 | |
 | Institute for Advanced Study, Toulouse, France |  Visiting Fellowship (Bridging Evolutionary and Economic principles especially in agriculture) |
 | 2019-2020 | |
 | Bundesamt für Naturschutz (Federal Agency for Nature Conservation), Germany | Original Project - Potential risks of synthetic gene-drive for monitoring.|
-
-#### Previous
-
+| 2014-2016 | |
 | Royal Society of New Zealand  | Marsden Fund, Associate Investigator with Paul Rainey: “Lineage selection and evolution of cancer" |
+| 2012-2014 | |
 | DFG Priority Program | SPP 1590 Principal Investigator grant - “Probabilistic Structures in Evolution” |
+| 2011 | |
 | Otto Hahn Medal  |	Max Planck Society |
 
 ### Academic Positions
