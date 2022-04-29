@@ -25,7 +25,7 @@ header:
 | Languges | Marathi (mother-tongue), English, German, Hindi |
 
 
-### Awards & Fundings
+### Recognition & Funding
 
 #### Ongoing
 
