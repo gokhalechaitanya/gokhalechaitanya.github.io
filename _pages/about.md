@@ -27,7 +27,7 @@ header:
 
 ### Recognition & Funding
 
-#### Ongoing
+#### Recent
 
 | April  2022      |  |
 | Office of Technology Assessment at the German Bundestag (TAB)    | Invited as a scientific expert to attend the discussion - ``TA im Dialog: Impfungen und Gene Drives gegen Malaria`` |
