@@ -25,13 +25,13 @@ header:
 
 ### Upcoming
 
-- May 2022 Max Planck Institute for Astronomy in Heidelberg, ``Towards Molecular Complexity: At the crossroads between astrophysics and biochemistry``
+- May 2022 EvoGames+ Summer School lecture, Delft University of Technology (TU Delft) - ``Stochastic evolutionary game dynamics``
 
-- 24 May 2022 University of Bern, ``Beliefs and Trust``
+- 24 May 2022 University of Bern, ``The power of belief 	- how collective narratives catalyze cooperation``
 
-- June 2022 Graz, Austria Workshop on game theory in fauna and flora
+- June 2022 Graz, Austria Workshop on game theory in fauna and flora ``The power of belief 	- how collective narratives catalyze cooperation``
 
-- July 2022, NetSci 2022, Shanghai (online) Satellite Symposia -- ``Evolution of cooperation and game dynamics in networked systems``
+- July 2022, NetSci 2022, Shanghai (online) Satellite Symposia -- ``Evolutionary dynamics of trust in networked systems``
 
 for a complete list check out [Talks](/talks/)
 

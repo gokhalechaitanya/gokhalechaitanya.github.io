@@ -146,3 +146,6 @@ Cancun, Mexico - Origins of life and Evolutionary games: Exploring the nonlinear
 * ``Santa Fe Institute`` - "Constructing and Deconstructing Collectives: Signals to Space and Society" (online) - Collective Narratives Catalyse cooperation
 * ``Fifth Bangalore School on Population Genetics and Evolution`` (ONLINE) - Plurality in evolutionary theory - games and genes
 * ``Mathematics Symposium, City University``, London (online) - Collective Narratives Catalyse cooperation
+* Public Lecture at the MPI: ``Die Macht der Propaganda - Die Bedeutung von Geschichten für kollektives Handeln``
+* 3 May 2022, Max Planck Institute for Astronomy in Heidelberg, ``Towards Molecular Complexity: At the crossroads between astrophysics and biochemistry`` - The ecology of evolutionary replicators
+
