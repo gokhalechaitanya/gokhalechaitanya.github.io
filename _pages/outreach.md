@@ -25,13 +25,12 @@ header:
 
 ### Upcoming
 
-- May 2022 EvoGames+ Summer School lecture, Delft University of Technology (TU Delft) - ``Stochastic evolutionary game dynamics``
 
-- 24 May 2022 University of Bern, ``The power of belief 	- how collective narratives catalyze cooperation``
+- 24 May 2022 Lecture Series in Ecology and Evolution, University of Bern, ``The power of belief 	- how collective narratives catalyze cooperation``
 
-- June 2022 Graz, Austria Workshop on game theory in fauna and flora ``The power of belief 	- how collective narratives catalyze cooperation``
+- 11-12 June 2022 Graz, Austria Workshop on game theory in fauna and flora ``The power of belief 	- how collective narratives catalyze cooperation``
 
-- July 2022, NetSci 2022, Shanghai (online) Satellite Symposia -- ``Evolutionary dynamics of trust in networked systems``
+- July 2022, NetSci 2022, Shanghai (online) Satellite Symposia -- ``Evolutionary dynamics of trust in structured populations``
 
 for a complete list check out [Talks](/talks/)
 

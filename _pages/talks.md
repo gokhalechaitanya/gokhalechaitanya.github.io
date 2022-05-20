@@ -148,4 +148,4 @@ Cancun, Mexico - Origins of life and Evolutionary games: Exploring the nonlinear
 * ``Mathematics Symposium, City University``, London (online) - Collective Narratives Catalyse cooperation
 * Public Lecture at the MPI: ``Die Macht der Propaganda - Die Bedeutung von Geschichten für kollektives Handeln``
 * 3 May 2022, Max Planck Institute for Astronomy in Heidelberg, ``Towards Molecular Complexity: At the crossroads between astrophysics and biochemistry`` - The ecology of evolutionary replicators
-
+* 18 May 2022 EvoGames+ Summer School lecture, Delft University of Technology (TU Delft) - ``Stochastic evolutionary game dynamics``
