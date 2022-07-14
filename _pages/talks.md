@@ -149,3 +149,6 @@ Cancun, Mexico - Origins of life and Evolutionary games: Exploring the nonlinear
 * Public Lecture at the MPI: ``Die Macht der Propaganda - Die Bedeutung von Geschichten für kollektives Handeln``
 * 3 May 2022, Max Planck Institute for Astronomy in Heidelberg, ``Towards Molecular Complexity: At the crossroads between astrophysics and biochemistry`` - The ecology of evolutionary replicators
 * 18 May 2022 EvoGames+ Summer School lecture, Delft University of Technology (TU Delft) - ``Stochastic evolutionary game dynamics``
+* 24 May 2022 Lecture Series in Ecology and Evolution, University of Bern, ``The power of belief 	- how collective narratives catalyze cooperation``
+* 11-12 June 2022 Graz, Austria Workshop on game theory in fauna and flora ``The power of belief	- how collective narratives catalyze cooperation``
+* 14 June 2022 Vienna, Complexity Hub ``The power of belief - how collective narratives catalyze cooperation``
