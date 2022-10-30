@@ -152,3 +152,5 @@ Cancun, Mexico - Origins of life and Evolutionary games: Exploring the nonlinear
 * 24 May 2022 Lecture Series in Ecology and Evolution, University of Bern, ``The power of belief 	- how collective narratives catalyze cooperation``
 * 11-12 June 2022 Graz, Austria Workshop on game theory in fauna and flora ``The power of belief	- how collective narratives catalyze cooperation``
 * 14 June 2022 Vienna, Complexity Hub ``The power of belief - how collective narratives catalyze cooperation``
+* July 2022, NetSci 2022, Shanghai (online) Satellite Symposia -- ``Evolutionary dynamics of trust in structured populations``
+* 27 October 2022 Paris, Workshop on Dynamic Games and Applications Université Paris-Panthéon-Assas ``Eco-evolutionary dynamics of collective beliefs catalysing cooperation``

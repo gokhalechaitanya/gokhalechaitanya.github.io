@@ -23,9 +23,7 @@ header:
 
 ## Seminars/Talks
 
-### Upcoming
-
-- July 2022, NetSci 2022, Shanghai (online) Satellite Symposia -- ``Evolutionary dynamics of trust in structured populations``
+### All seminars
 
 for a complete list check out [Talks](/talks/)
 
@@ -39,6 +37,9 @@ for a complete list check out [Talks](/talks/)
 ## Media
 
 Podcast
+
+* 2022: Epistimones - [“Chaitanya Gokhale: Theoretical eco-evolutionary dynamics
+​”](https://open.spotify.com/episode/7ciujPGjQ1ydg88QbJkquJ?si=pnLKgR3rR0SgcG8AJrrS_Q)
 
 * 2021: Max Planck Society Youtube Channel - [“Gene Drive – ein Turbo für Gene | Wissen Was mit @MrWissen2go
 ​”](https://youtu.be/TP1NWy1izaQ)
