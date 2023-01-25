@@ -73,8 +73,10 @@ header:
 ### Reviewing & Board memberships
 
 - Editorial Board
-	- Journal of Evolutionary Biology
 	- Scientific Reports
+	- PLoS Computational Biology
+	- BioPhysMath
+	- Humanities and Social Sciences Communications
 - Committees
 	- International Max Planck Research School
 	- PhD thesis evaluation committee member, Massey University
