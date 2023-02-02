@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /everest/
 title: "About me"
 excerpt: "Brief CV and interests"
 layout: single
