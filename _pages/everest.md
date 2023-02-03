@@ -1,151 +1,48 @@
 ---
 permalink: /everest/
-title: "About me"
-excerpt: "Brief CV and interests"
+title: "Peak XV"
+excerpt: "Musings"
 layout: single
 author_profile: true
 toc: false
-toc_label: "CV"
-toc_icon: "cog"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/IMG_2016.jpg
 #  actions:
-#    - label: "Learn More"
+#    - label: "musings"
 #      url: "/terms/"
   caption: "Photo credit: Plön (Chaitanya)"
 ---
 
-### Personal Data
+### Peak XV
 
-| --------         | ------ |
-| Citizenship    | Indian     |
-| Place and Date of Birth   | Pune, Maharashtra, India  |
-| Languges | Marathi (mother-tongue), English, German, Hindi |
+Why does man climb mountains? There are a number of reasons and urges but it is not possible to comprehend all of them; the intensity of challenge, the excitement or love of adventure is the usual answer; or is it the urge to break free from the limits and disciplines of organized society? Realization of the Supreme Power, being close to nature or the companionship and enduring friendships which the mountains offer? Whatever the answer may be, it is no mundane activity and is without any utilitarian gain or material profit. The extraordinary struggle of man with rocks and ice, exhaustion and isolation and physical and mental strain add to this joy, especially when it is all over. Though, even after the mountains have been climbed; summits gained and goals reached, mountains always remain bigger than us.
 
+Everest was discovered during the trignometrical survey of Himalayas by Sir George Everest, the then Surveyor General of India in 1841. Eleven years after the discovery when the data was compiled and it was found out that the Peak XV, Everest, was 29,000 feet high - the highest in the world. The great giants of the Himalayas-the seven “Octansenders” (over 8000 meters) and Everest, highest of them all, spurned attempt after attempt.
 
-### Recognition & Funding
+Darjeeling, where the Himalayan Mountaineering Institute is situated, presents a most unparalleled view of the snowcapped Himalayas. At 45 miles through air from Darjeeling, lies the third highest peak in the world, the Kanchenjunga. A few miles from the town is Tiger Hill, from where on a clear morning, one can see the summit of the Everest, distinguished by its singular but imperial plume.
 
-#### Recent
+Sherpas are the inseparable part of any Everest expedition. Sherpas literally means “men from the east”. They are extraordinary people and exceptionally hard, courageous, dependable and loyal. They have acquired high proficiency in very high altitude snow and ice climbing.
 
-| April  2022      |  |
-| Office of Technology Assessment at the German Bundestag (TAB)    | Invited as a scientific expert to attend the discussion - ``TA im Dialog: Impfungen und Gene Drives gegen Malaria`` |
-| 2021-2024         |  |
-| Marie Curie Innovative Training Network    | EvoGames+ , Theoretical Developments and Applications in Evolutionary Games     |
-| 2019-2022 | |
-| KAKENHI Project, Japan (with Jai Denton) | Project 19K06795 - Understanding How The Environment Shapes Mutualism |
+The first step begins with a number of steps constituting the Forward March. The trek is through the scenic villages of Nepal, namely Sarsar-Phulbari-Amtai- Manebhanjyang-Okhuldunga and stopping at Thyangboche. The common villages known to Everesters , Nimare, Tomoche, Phuleli, Kharikhola, Puiyan and Phakding finally leading to Namche Bazar –the heart of Sherpa land.
 
-#### Previous
+Crossing the Sun Kosi and Dudh Kosi rivers through tall tress, cherry and apricot blossoms, one reaches deep ravines filled with boulders and the now barren hill slopes. At Thyangboche is the famous Lama monastery wherein resides the Incarnate Lama, when in Nepal. Thyangboche is truly “A Gateway to the Heavens” commanding a breathtaking view. At 13,000 ft, straight ahead lies the Everest, flanked by the stupendous, Lhotse and Nuptse walls. On the right is the towering Ama Dablam right over the valley of Imja Khola, a straight 10,000 ft below.
 
-| 2020-2021 | |
-| Bundesamt für Naturschutz (Federal Agency for Nature Conservation), Germany |		Original Project extension - Potential risks of synthetic gene-drive for monitoring.|
-| 2019-2020 | |
-| Institute for Advanced Study, Toulouse, France |  Visiting Fellowship (Bridging Evolutionary and Economic principles especially in agriculture) |
-| 2019-2020 | |
-| Bundesamt für Naturschutz (Federal Agency for Nature Conservation), Germany | Original Project - Potential risks of synthetic gene-drive for monitoring.|
-| 2014-2016 | |
-| Royal Society of New Zealand  | Marsden Fund, Associate Investigator with Paul Rainey: “Lineage selection and evolution of cancer" |
-| 2012-2014 | |
-| DFG Priority Program | SPP 1590 Principal Investigator grant - “Probabilistic Structures in Evolution” |
-| 2011 | |
-| Otto Hahn Medal  |	Max Planck Society |
+At high altitudes the environment is quite different from that what people are normally accustomed to. The thinner atmosphere brings breathing problems, upsets metabolism and absorption of oxygen and food in body diminishes. The blood becomes thicker to compensate this defect. Such other factors are included in the process of acclimatization.
 
-### Academic Positions
+The Base camp is set generally under the shadow of Khumbutse and the Lho-La. This area is probably the world’s greatest amhphitheater. Facing the Everest from the left, Pumori (23,442 ft), Lingtren (21,972 ft), Khumbutse (21,785 ft), Changtse (24,780 ft), the West shoulder of Everest, and Nuptse form a semicircle of snow white galleries rising in the azure blue sky.
 
-#### Current positions
+The way up, the Khumbu glacier, leads to a semicircular dead end. The hanging tongues of ice, peeling off the walls constantly, bombard the slopes with constantly shattering rock hard ice. This is the “Icefall”. From a rim, over 20,000 ft, the Icefall rumbles in a continuous, thick cascade of solid ice, slowly, dangerously and deceptively, constantly shaking and trembling.
 
-| 2016- | Group Leader, Max Planck Institute for Evolutionary Biology, Plön, Germany |
-| 2016- | Full Member, [Kiel Evolution Center](http://www.kec.uni-kiel.de), Kiel, Germany |
+Beyond the Icefall, lies a gentle and broad glacier named as the Western cwm (cwm means hollow in a mountain; a deep ravine). On the left is the Everest, on the right is the Nuptse and straight ahead is the Lhotse face. Hence the calmness of the valley is broken only by avalanches that come thundering down these mountainsides. The cwm is also known as “The Valley of Silence” leading up to the tremendously steep jagged summit of Lhotse. On the left, is the summit of Everest rising 9,000 ft above the glacier, but in front lays the main hurdle.
 
-#### Post-doctoral experience
+Between Lhotse and the Everest, lies a broad gap at 26,200 ft. It is the famous South Col. Shortest route to the South Col is through the Lhotse Couloir (Couloir means a gully in up-down direction). At the height of 25,000 ft on the couloir, a traverse needs to be taken at the Geneva Spur (name given to the rock rib by the Swiss expedition). This is the zone, where the endurance of the climbers is tested to the limit against the bitter cold and the sharp winds.
+Above the South Col there is only one place for camping till now and that too at about 28,000 ft. There on rises the “Razor’s Edge”. The ridge is covered with soft snow and loose boulders. There is soft snow on the right and a sheer drop on the left. It leads to the South Summit. From the summit directly in front, is the final Summit Ridge, but only after a 30 ft descent and then a climb. It is a fairly steep slope with cornices. The Ridge is full of firm ice and leads to the famous “Hillary’s Chimney”, a rock and ice formation. On the left is the rock while on right is the snow. On has to climb through it with a sheer drop below. It was named a “Chimney” by Tenzing and Sir Hillary in 1953.
 
-| 2014 - 2016 | 	Post doctoral researcher, New Zealand Institute for Advanced Study, Massey University, Auckland, New Zealand |
-| 2011 - 2014 |	Post doctoral researcher, Max Planck Institute for Evolutionary Biology, Plön, Germany |
+The Chimney leads straight onto the Summit hump. This is the top of the world, “the roof of the world”. The one’s who have been fortunate to stand on that peak report the feeling of mixed emotions right from joy to tears and gratitude to humbleness. Many of them have taken the snow or pebbles from the summit as mementos. The view from the summit is the most breathtaking. Knowing that it is the highest place on the planet (29,038 ft) everything else does look small. Makalu, Lhotse, Nuptse and Kanchenjunga in the distance look ravishing.
 
-### Visiting researcher
- - Max Planck Institute for Anthropology, Leipzig, Germany
- - Kavli Institute for Theoretical Physics, Santa Barbara, U.S.A.
- - Santa Fe Institute, Santa Fe, U.S.A. 
- - National Centre For Biological Sciences, Bangalore, India 
- - Center for Cellular and Molecular Biology, Hyderabad, India
+None of the summiteers have denied the fact of experiencing the power of the Supreme Being, while on top. It is a feeling of being suspended in space and time and the cycles of nature have no imprint on the phenomenon. We salute the one’s who have braved the Icefall, the ominous valley of silence, the cruel and windswept South Col and reaching the holy precincts of “Sagar Matha” and yet coming back to tell the tales of their embrace with the “Goddess Mother of the Earth”, locally called as Chomolungma.
 
-### Reviewing & Board memberships
-
-- Editorial Board
-	- Scientific Reports
-	- PLoS Computational Biology
-	- BioPhysMath
-	- Humanities and Social Sciences Communications
-- Committees
-	- International Max Planck Research School
-	- PhD thesis evaluation committee member, Massey University
-	- L’ORÉAL Austria - Fellowship for Young Female Scientists in Basic Research
-	- Santa Fe Institute Complex Systems Summer School
-- Reviewer for DFG research grants
-
-### Education
-
-| 2011     |  | |
-| Doctorate in Natural Sciences  | Christian Albrechts University of Kiel, Max Planck Institute for Evolutionary Biology, | **Thesis** “Evolutionary dynamics on multi-dimensional fitness landscapes” **Advisor** Dr. Arne Traulsen **Grade** Summa cum laude  |
-| 2008     |  | |
-| Master of Science in Bioinformatics  | Sikkim Manipal University of Health Medical and Technological Sciences, National Center for Biological Science, Bangalore, India | **Thesis** “Ab initio calculations in the HGPRT active site and the analysis of select mutations” **Advisor** Dr. Mrinalini Puranik  |
-| 2005     |  | |
-| Bachelor of Science in Zoology and Biotechnology  | Fergusson College, Pune, India | -  |
-
-<!-- Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
-
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
-
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
-
-## Notable Features
-
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), [Discourse](https://www.discourse.org/), [utterances](https://utteranc.es/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Norwegian (Norsk), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
-
-## Demo Pages
-
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
 
 ---
-
-## Credits
-
-### Icons + Demo Images:
-
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York. -->
