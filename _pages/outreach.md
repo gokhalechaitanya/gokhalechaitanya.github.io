@@ -33,7 +33,7 @@ for a complete list check out [Talks](/talks/)
 
 - 17-21 April 2023, Bernoulli Center, EPFL, Lausanne, Biological Evolution Across Scales: Mathematical modelling and statistical inference: ``Ecological processes and community cohesion: lessons from synthetic microbial communities``
 
-- 14-18 August 2023, Seol, South Korea, International Conference on Biological Physics: ``Antibiotics at the root of microbial diversity``
+- 14-18 August 2023, Seoul, South Korea, International Conference on Biological Physics: ``Antibiotics at the root of microbial diversity``
 
 
 ### Public talks in German
