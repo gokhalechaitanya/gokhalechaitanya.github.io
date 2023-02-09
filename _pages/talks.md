@@ -154,3 +154,16 @@ Cancun, Mexico - Origins of life and Evolutionary games: Exploring the nonlinear
 * 14 June 2022 Vienna, Complexity Hub ``The power of belief - how collective narratives catalyze cooperation``
 * July 2022, NetSci 2022, Shanghai (online) Satellite Symposia -- ``Evolutionary dynamics of trust in structured populations``
 * 27 October 2022 Paris, Workshop on Dynamic Games and Applications Université Paris-Panthéon-Assas ``Eco-evolutionary dynamics of collective beliefs catalysing cooperation``
+
+
+```
+2023
+```
+
+#### Upcoming
+
+- 1st March 2023, EAWAG: ``The power beliefs and trust in unstructured and structured populations``
+
+- 17-21 April 2023, Bernoulli Center, EPFL, Lausanne, Biological Evolution Across Scales: Mathematical modelling and statistical inference: ``Ecological processes and community cohesion: lessons from synthetic microbial communities``
+
+- 14-18 August 2023, Seol, South Korea, International Conference on Biological Physics: ``Antibiotics at the root of microbial diversity``
