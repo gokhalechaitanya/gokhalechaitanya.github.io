@@ -25,6 +25,7 @@ If the paper you are interested in is not freely available then drop me an email
 
 ## Preprints
 
+* Athreya, G. S., Gokhale, C. S. & Verma, P. Antibiotic-mediated interactions underlying microbial diversity. (2023) [bioRxiv-2023.02.15.528676](https://doi.org/10.1101/2023.02.15.528676)
 * Patil, S., Nöbel, S. & Gokhale, C. S. Impact of female mate copying on male morph dynamics [bioRxiv-12022.09.13.507757](https://doi.org/10.1101/2022.09.13.507757)
 * Suswaram, D., Yeakel, J.D. and Gokhale, C.S. Parasitoid pressures and silence evolution [bioRxiv-12.503800](https://doi.org/10.1101/2022.08.12.503800)
 * Lauenroth, D., and Gokhale, C.S. Theoretical assessment of persistence and adaptation in weeds with complex life cycles [bioRxiv-12.503772](https://doi.org/10.1101/2022.08.12.503772)
