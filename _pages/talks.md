@@ -160,12 +160,18 @@ Cancun, Mexico - Origins of life and Evolutionary games: Exploring the nonlinear
 2023
 ```
 
-#### Upcoming
 
 - 1st March 2023, EAWAG: ``The power beliefs and trust in unstructured and structured populations``
 
 - 17-21 April 2023, Bernoulli Center, EPFL, Lausanne, Biological Evolution Across Scales: Mathematical modelling and statistical inference: ``Ecological processes and community cohesion: lessons from synthetic microbial communities``
 
-- 14-18 August 2023, Seoul, South Korea, International Conference on Biological Physics: ``Antibiotics at the root of microbial diversity``
+- 21 June 2023, Biocenter, Zoo3, Würzburg ``Translational research in agriculture``
 
-- 1st March 2023, EAWAG: ``The power beliefs and trust in unstructured and structured populations``
+- 29 June 2023, Human Frontier Science Program, International Science Summit and Scientific Symposium, ``Theoretical biology for sustainable agriculture: a sociobiological conundrum``
+
+- <s>14-18 August 2023, Seoul, South Korea, International Conference on Biological Physics: ``Antibiotics at the root of microbial diversity``</s> Cancelled due to visa processing delay
+
+#### Upcoming
+
+- September 2023, Max Planck Institute for Evolutionary Biology, Postdoc Retreat ``The role of AI in research``
+
