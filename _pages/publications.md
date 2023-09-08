@@ -25,6 +25,8 @@ If the paper you are interested in is not freely available then drop me an email
 
 ## Preprints
 
+* Mikaberidze, A., Gokhale, C.S., Bargués-Ribera, M., & Verma, P. Economic analysis of disease and control of multi-field epidemics in agriculture [bioRxiv-2023.09.05.556392](https://www.biorxiv.org/content/10.1101/2023.09.05.556392v1)
+* Fic, M., Gokhale, C. S. Collective beliefs and trust in structured populations (2023) [zenodo.7602162](https://doi.org/10.5281/zenodo.7602162)
 * Athreya, G. S., Gokhale, C. S. & Verma, P. Antibiotic-mediated interactions underlying microbial diversity. (2023) [bioRxiv-2023.02.15.528676](https://doi.org/10.1101/2023.02.15.528676)
 * Patil, S., Nöbel, S. & Gokhale, C. S. Impact of female mate copying on male morph dynamics [bioRxiv-12022.09.13.507757](https://doi.org/10.1101/2022.09.13.507757)
 * Suswaram, D., Yeakel, J.D. and Gokhale, C.S. Parasitoid pressures and silence evolution [bioRxiv-12.503800](https://doi.org/10.1101/2022.08.12.503800)
