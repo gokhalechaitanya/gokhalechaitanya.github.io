@@ -29,11 +29,9 @@ for a complete list check out [Talks](/talks/)
 
 #### Upcoming
 
-- 20-31 March 2023, Convention on Biological Diversity, UN environment programme: ``Open-ended Online Forum on Synthetic Biology``
-
-- 17-21 April 2023, Bernoulli Center, EPFL, Lausanne, Biological Evolution Across Scales: Mathematical modelling and statistical inference: ``Ecological processes and community cohesion: lessons from synthetic microbial communities``
-
-- 14-18 August 2023, Seoul, South Korea, International Conference on Biological Physics: ``Antibiotics at the root of microbial diversity``
+- 30-31st October 2023 "Evolutionary Theory" for Masters in Bioinformatics 
+- 21st November 2023 "Eco-evolutionary agriculture: from fundamental to translational research" 11:15 - 12:15 Onsite PER 04 0.110 Auditorium, Rue Albert-Gockel 3, Fribourg
+- 
 
 
 ### Public talks in German
