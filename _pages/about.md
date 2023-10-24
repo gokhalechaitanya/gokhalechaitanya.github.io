@@ -29,6 +29,9 @@ header:
 
 #### Recent
 
+| October  2023      |  |
+| Funding from Bayerische Forschungsallianz  | Fonds 863050 to cooperate with Dr. Linh Phuong Nguyen (University of Fribourg, Switzerland) ''Ueber multiple Infektionen und Wirtsmanipulation von Parasiten mit komplexen Lebenszyklen''
+|
 | April  2022      |  |
 | Office of Technology Assessment at the German Bundestag (TAB)    | Invited as a scientific expert to attend the discussion - ``TA im Dialog: Impfungen und Gene Drives gegen Malaria`` |
 | 2021-2024         |  |
@@ -55,6 +58,7 @@ header:
 
 #### Current positions
 
+| 2023- | Professor for Theoretical Biology, Center for Computational and Theoretical Biology, Würzburg |
 | 2016- | Group Leader, Max Planck Institute for Evolutionary Biology, Plön, Germany |
 | 2016- | Full Member, [Kiel Evolution Center](http://www.kec.uni-kiel.de), Kiel, Germany |
 
