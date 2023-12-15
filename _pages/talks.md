@@ -172,3 +172,7 @@ Cancun, Mexico - Origins of life and Evolutionary games: Exploring the nonlinear
 - <s>14-18 August 2023, Seoul, South Korea, International Conference on Biological Physics: ``Antibiotics at the root of microbial diversity``</s> Cancelled due to visa processing delay
 
 - September 2023, Max Planck Institute for Evolutionary Biology, Postdoc Retreat ``The role of AI in research``
+
+- 30-31st October 2023 "Evolutionary Theory" for Masters in Bioinformatics 
+
+- 21st November 2023 ["Eco-evolutionary agriculture: from fundamental to translational research"](https://agenda.unifr.ch/e/fr/14349/) 11:15 - 12:15 Onsite PER 04 0.110 Auditorium, Rue Albert-Gockel 3, Fribourg

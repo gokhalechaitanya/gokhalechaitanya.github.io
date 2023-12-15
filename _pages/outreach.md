@@ -29,9 +29,8 @@ for a complete list check out [Talks](/talks/)
 
 #### Upcoming
 
-- 30-31st October 2023 "Evolutionary Theory" for Masters in Bioinformatics 
-- 21st November 2023 "Eco-evolutionary agriculture: from fundamental to translational research" 11:15 - 12:15 Onsite PER 04 0.110 Auditorium, Rue Albert-Gockel 3, Fribourg
-- 
+- 9th - 11th January 2024 IST Vienna "The power of collective beliefs in catalysing cooperation in unstructured and structured population"
+-  DSABNS conference February 2024 Almada, Lisbon
 
 
 ### Public talks in German
