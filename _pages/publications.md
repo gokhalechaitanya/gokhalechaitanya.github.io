@@ -27,7 +27,6 @@ If the paper you are interested in is not freely available then drop me an email
 
 * Nguyen, P. L., & Gokhale, C.S. On multiple infections by parasites with complex life cycles [bioRxiv-2023.10.13.562184v1](https://www.biorxiv.org/content/10.1101/2023.10.13.562184v1)
 * Mikaberidze, A., Gokhale, C.S., Bargués-Ribera, M., & Verma, P. Economic analysis of disease and control of multi-field epidemics in agriculture [bioRxiv-2023.09.05.556392](https://www.biorxiv.org/content/10.1101/2023.09.05.556392v1)
-* Fic, M., Gokhale, C. S. Collective beliefs and trust in structured populations (2023) [zenodo.7602162](https://doi.org/10.5281/zenodo.7602162)
 * Athreya, G. S., Gokhale, C. S. & Verma, P. Antibiotic-mediated interactions underlying microbial diversity. (2023) [bioRxiv-2023.02.15.528676](https://doi.org/10.1101/2023.02.15.528676)
 * Patil, S., Nöbel, S. & Gokhale, C. S. Impact of female mate copying on male morph dynamics [bioRxiv-12022.09.13.507757](https://doi.org/10.1101/2022.09.13.507757)
 * Suswaram, D., Yeakel, J.D. and Gokhale, C.S. Parasitoid pressures and silence evolution [bioRxiv-12.503800](https://doi.org/10.1101/2022.08.12.503800)
@@ -45,10 +44,16 @@ John M. McNamara and Olof Leimar* for the International Society for Behavioural 
 ### Journal articles
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     ```
+    2024
+    ```
+
+0. Fic, M., Gokhale, C. S. Catalysing Cooperation: The Power of Collective Beliefs in Structured Populations *forthcoming - npj Complexity* [zenodo.7602162](https://doi.org/10.5281/zenodo.7602162)
+0. Revathi Venkateswaran, V., Gokhale, C.S., Mangel, M., and Eliassen, S., Effects of time spent in pregnancy or brooding on immunocompetence *Ecology & Evolution* 14,1 e10764 [pdf](https://onlinelibrary.wiley.com/doi/10.1002/ece3.10764)
+
+    ```
     2023
     ```
 
-0. Revathi Venkateswaran, V., Gokhale, C.S., Mangel, M., and Eliassen, S., Effects of time spent in pregnancy or brooding on immunocompetence *Ecology & Evolution* *forthcoming*
 0. Gokhale, C.S., Rainey, P.B., and Frean, M., Eco-evolutionary logic of mutualisms, *Dynamic Games and Applications* [pdf](https://rdcu.be/dpFq4)
 0. Lauenroth, D., and Gokhale, C.S. Theoretical assessment of persistence and adaptation in weeds with complex life cycles, *Nature Plants* 9, 1267-1279 [bioRxiv-12.503772](https://doi.org/10.1101/2022.08.12.503772)
 0. Gokhale, C.S., and Sharma, N. 2023 Optimising crop rotations via Parrondo's paradox for sustainable agriculture. *Royal Society Open Science* 10:221401 [Royal Soc. Open Science](https://royalsocietypublishing.org/doi/10.1098/rsos.221401)
