@@ -29,7 +29,6 @@ for a complete list check out [Talks](/talks/)
 
 #### Upcoming
 
-- 9th - 11th January 2024 IST Vienna "The power of collective beliefs in catalysing cooperation in unstructured and structured population"
 -  DSABNS conference February 2024 Almada, Lisbon
 
 

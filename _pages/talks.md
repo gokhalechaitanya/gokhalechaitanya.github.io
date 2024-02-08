@@ -176,3 +176,11 @@ Cancun, Mexico - Origins of life and Evolutionary games: Exploring the nonlinear
 - 30-31st October 2023 "Evolutionary Theory" for Masters in Bioinformatics 
 
 - 21st November 2023 ["Eco-evolutionary agriculture: from fundamental to translational research"](https://agenda.unifr.ch/e/fr/14349/) 11:15 - 12:15 Onsite PER 04 0.110 Auditorium, Rue Albert-Gockel 3, Fribourg
+
+
+```
+2023
+```
+
+
+- 9th - 11th January 2024 IST Vienna "The power of collective beliefs in catalysing cooperation in unstructured and structured population"
