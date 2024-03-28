@@ -29,7 +29,9 @@ for a complete list check out [Talks](/talks/)
 
 #### Upcoming
 
--  DSABNS conference February 2024 Almada, Lisbon
+- 7th May 2024 Rechtliche und ethische Aspekte in den Biowissenschaften, Würzburg - "Gene Drive –Theory, Ecological and Sociological Consequences "
+- 19th - 24th May 2024 Banff International Research Station - "Modelling and Theory in Population Biology"
+- 4th - 6th June 2024 European Astrobiology Institute - Subgroup "Coupling of compartment, metabolism, and heritable information in evolutionary systems"
 
 
 ### Public talks in German
