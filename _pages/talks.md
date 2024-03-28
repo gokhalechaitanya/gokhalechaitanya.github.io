@@ -179,8 +179,9 @@ Cancun, Mexico - Origins of life and Evolutionary games: Exploring the nonlinear
 
 
 ```
-2023
+2024
 ```
 
 
 - 9th - 11th January 2024 IST Vienna "The power of collective beliefs in catalysing cooperation in unstructured and structured population"
+- 6th - 9th February 2024 Minisymposium at the DSABNS conference Almada, Lisbon, "Theoretical Models in Sustainable agriculture- integrating ecology, evolution and economics"
