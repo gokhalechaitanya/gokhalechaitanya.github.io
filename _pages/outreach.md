@@ -29,8 +29,8 @@ for a complete list check out [Talks](/talks/)
 
 #### Upcoming
 
-- 7th May 2024 Rechtliche und ethische Aspekte in den Biowissenschaften, Würzburg - "Gene Drive –Theory, Ecological and Sociological Consequences "
-- 19th - 24th May 2024 Banff International Research Station - "Modelling and Theory in Population Biology"
+- <s>19th - 24th May 2024 Banff International Research Station - "Modelling and Theory in Population Biology"</s> Cancelled due to no Visa from Canada
+- 19th - 24th May 2024 GRC on Genetic Biocontrol - "Gene drives under ecological pressure"
 - 4th - 6th June 2024 European Astrobiology Institute - Subgroup "Coupling of compartment, metabolism, and heritable information in evolutionary systems"
 - 3th - 5th September 2024 NC3 Conference, University of Münster "tba"
 
