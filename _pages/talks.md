@@ -186,3 +186,5 @@ Cancun, Mexico - Origins of life and Evolutionary games: Exploring the nonlinear
 - 9th - 11th January 2024 IST Vienna "The power of collective beliefs in catalysing cooperation in unstructured and structured population"
 - 6th - 9th February 2024 Minisymposium at the DSABNS conference Almada, Lisbon, "Theoretical Models in Sustainable agriculture- integrating ecology, evolution and economics"
 - 7th May 2024 Rechtliche und ethische Aspekte in den Biowissenschaften, Würzburg - "Eco-evolutionary agriculture: theoretical approaches to sustainable practices"
+- <s>19th - 24th May 2024 Banff International Research Station - "Modelling and Theory in Population Biology"</s> Cancelled due to Visa processing delays from Canada
+- 19th - 24th May 2024 GRC on Genetic Biocontrol - "Gene drives under ecological pressure"
