@@ -22,4 +22,4 @@ header:
 Chaitanya is interested in the emergence of complex phenomena across scales of organisation.
 
 This is a personal website.
-For further details about the group he is leading at the Max Planck Institute for Evolutionary Biology, follow the ```T-Eco-Evo``` link on the left.
+For further details about the group he is leading at the University of Würzburg, Germany, follow the ```T-Eco-Evo``` link on the left.
