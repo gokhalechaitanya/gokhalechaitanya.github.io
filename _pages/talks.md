@@ -188,3 +188,7 @@ Cancun, Mexico - Origins of life and Evolutionary games: Exploring the nonlinear
 - 7th May 2024 Rechtliche und ethische Aspekte in den Biowissenschaften, Würzburg - "Eco-evolutionary agriculture: theoretical approaches to sustainable practices"
 - <s>19th - 24th May 2024 Banff International Research Station - "Modelling and Theory in Population Biology"</s> Cancelled due to Visa processing delays from Canada
 - 19th - 24th May 2024 GRC on Genetic Biocontrol - "Gene drives under ecological pressure"
+- - 6th June 2024 European Astrobiology Institute - Subgroup "Coupling of compartment, metabolism, and heritable information in evolutionary systems"
+- 10th June 2024 Benedict XVI Hall, Pontifical University of the Holy Cross, Rome - Naturam totam complectari animo: towards a relational ecology Talk: "Ecology defines the individual"
+- 19th June 2024 Max Planck Institute for Evolutionary Biology "Interdisciplinary Theoretical Biology"
+- 3th - 5th September 2024 NC3 Conference, the University of Münster "Temporal scaffolding: How ecology defines the individual"

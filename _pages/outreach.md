@@ -29,10 +29,8 @@ for a complete list check out [Talks](/talks/)
 
 #### Upcoming
 
-- 6th June 2024 European Astrobiology Institute - Subgroup "Coupling of compartment, metabolism, and heritable information in evolutionary systems"
-- 10th June 2024 Benedict XVI Hall, Pontifical University of the Holy Cross, Rome - Naturam totam complectari animo: towards a relational ecology Talk: "Ecology defines the individual"
-- 19th June 2024 Max Planck Institute for Evolutionary Biology "Interdisciplinary Theoretical Biology"
-- 3th - 5th September 2024 NC3 Conference, University of Münster "tba"
+- 19th October 2024, Deutsche Studienstiftung, Würzburg Residenz Academy - "Population Transformation and Gene Drive"
+- 13th - 15th November 2024, Dutch Institute for Emergent Phenomena (DIEP), Amsterdam - "Pan narrans: collective narratives and cooperation"
 
 
 ### Public talks in German
