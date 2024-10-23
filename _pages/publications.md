@@ -25,6 +25,8 @@ If the paper you are interested in is not freely available then drop me an email
 
 ## Preprints
 
+* Krishnan, N., Kun, Á., Gokhale C.S. and Garay, J. Early eukaryogenesis by host-initiated obligate ectosymbiosis and metabolic inhibition. [bioRxiv-2024.09.08.611858](https://www.biorxiv.org/content/10.1101/2024.09.08.611858v1.abstract)
+* Fic M., Bastian F., Miękisz J., and Gokhale, C.S. Compartment model of strategy-dependent time delays in replicator dynamics. [arXiv:2409.01116](https://arxiv.org/abs/2409.01116)
 * Lauenroth, D., and **Gokhale, C. S.** Assessing the probability and time of weed control failure due to herbicide resistance evolution. [bioRxiv-2024.04.26.591266v1](https://www.biorxiv.org/content/10.1101/2024.04.26.591266v1)
 * Nguyen, P. L., & **Gokhale, C. S.** On multiple infections by parasites with complex life cycles [bioRxiv-2023.10.13.562184v1](https://www.biorxiv.org/content/10.1101/2023.10.13.562184v1)
 * Mikaberidze, A., **Gokhale, C. S.**, Bargués-Ribera, M., & Verma, P. Economic analysis of disease and control of multi-field epidemics in agriculture [bioRxiv-2023.09.05.556392](https://www.biorxiv.org/content/10.1101/2023.09.05.556392v1)
