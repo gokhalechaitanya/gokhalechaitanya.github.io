@@ -192,3 +192,4 @@ Cancun, Mexico - Origins of life and Evolutionary games: Exploring the nonlinear
 - 10th June 2024 Benedict XVI Hall, Pontifical University of the Holy Cross, Rome - Naturam totam complectari animo: towards a relational ecology Talk: "Ecology defines the individual"
 - 19th June 2024 Max Planck Institute for Evolutionary Biology "Interdisciplinary Theoretical Biology"
 - 3th - 5th September 2024 NC3 Conference, the University of Münster "Temporal scaffolding: How ecology defines the individual"
+- 19th October 2024, Deutsche Studienstiftung, Würzburg Residenz Academy - "Population Transformation and Gene Drive"

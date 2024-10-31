@@ -29,8 +29,8 @@ for a complete list check out [Talks](/talks/)
 
 #### Upcoming
 
-- 19th October 2024, Deutsche Studienstiftung, Würzburg Residenz Academy - "Population Transformation and Gene Drive"
 - 13th - 15th November 2024, Dutch Institute for Emergent Phenomena (DIEP), Amsterdam - "Pan narrans: collective narratives and cooperation"
+- January 2025, University of Köln
 
 
 ### Public talks in German
@@ -54,16 +54,18 @@ Podcast
 
 ## Teaching
 
-### Massey University - Structured Undergraduate Program
+### Würzburg - Structured Program
 
-2014
-- Origin of Genetic variation I
-- Origin of Genetic variation II
+2023 onwards
 
-2015
-- Co-evolution
-- Cooperation and Conflict
-- Evolutionary Game Theory
+- Several seminars and block courses in Bachelors and Masters modules within the faculty of Biology. Please check [WueCampus](https://wuecampus.uni-wuerzburg.de/moodle/) for more details or feel free to contact me.
+	- Mathematical Biology and Bioinformatics
+	- Special Bioinformatics
+	- Advanced Bioinformatics
+	- Methods in Life Science
+	- Legal and Ethical Issues in Biological Sciences
+	- Tour through Theoretical Studies: from biology to culture
+- 2023 - Interdisciplinary seminars with the Faculty of Psychology.
 
 ### Lübeck 
 
@@ -77,16 +79,28 @@ Podcast
 
 - *Bachelors course lecture series of Prof. Hinrich Schulenburg (Christian Albrechts University, Kiel)*
 
+### Massey University - Structured Program
 
-## Organized seminars
+2014
+- Origin of Genetic variation I
+- Origin of Genetic variation II
+
+2015
+- Co-evolution
+- Cooperation and Conflict
+- Evolutionary Game Theory
+
+## Organized workshops
 
 Upcoming
 
-* 2022: The Future of Games in Biology with John McNamara and Olof Leimar
+Please check the [Visitor programme initiated at the CCTB](https://www.biozentrum.uni-wuerzburg.de/cctb/visitors-program/).
 
 ---
 
 Past
+
+* 2022: The Future of Games in Biology with John McNamara and Olof Leimar
 
 * 2021: Theory in Spring series - Meike Wittmann, Anne Kandler, Helen Alexander
 
@@ -97,4 +111,3 @@ Past
 * 2018: 	Year of Mathematical Biology -  Speakers: Hanna Kokko, 	Nick Barton, Michael Doebeli, Michael Lynch, Alison Etheridge and Pleuni Pennings
 
 * 2017:	Bionomics \| The Biology and Economics of Mutualisms, co-organised with Jorge Peña.
-
