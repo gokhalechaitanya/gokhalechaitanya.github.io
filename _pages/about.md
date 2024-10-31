@@ -22,9 +22,29 @@ header:
 | --------         | ------ |
 | Citizenship    | Indian     |
 | Place and Date of Birth   | Pune, Maharashtra, India  |
-| Languges | Marathi (mother-tongue), English, German, Hindi |
+| Languages | Marathi (mother tongue), English, German, Hindi |
 
+### Academic Positions
 
+#### Current positions
+
+| 2023- | Professor for Theoretical Biology, Center for Computational and Theoretical Biology, Würzburg |
+| 2016- | Group Leader, Max Planck Institute for Evolutionary Biology, Plön, Germany |
+| 2016- | Full Member, [Kiel Evolution Center](http://www.kec.uni-kiel.de), Kiel, Germany |
+
+#### Post-doctoral experience
+
+| 2014 - 2016 | 	Postdoctoral researcher, New Zealand Institute for Advanced Study, Massey University, Auckland, New Zealand |
+| 2011 - 2014 |	Postdoctoral researcher, Max Planck Institute for Evolutionary Biology, Plön, Germany |
+
+### Visiting researcher
+ - Max Planck Institute for Anthropology, Leipzig, Germany
+ - Kavli Institute for Theoretical Physics, Santa Barbara, U.S.A.
+ - Santa Fe Institute, Santa Fe, U.S.A. 
+ - National Centre For Biological Sciences, Bangalore, India 
+ - Center for Cellular and Molecular Biology, Hyderabad, India
+
+ 
 ### Recognition & Funding
 
 #### Recent
@@ -54,25 +74,6 @@ header:
 | 2011 | |
 | Otto Hahn Medal  |	Max Planck Society |
 
-### Academic Positions
-
-#### Current positions
-
-| 2023- | Professor for Theoretical Biology, Center for Computational and Theoretical Biology, Würzburg |
-| 2016- | Group Leader, Max Planck Institute for Evolutionary Biology, Plön, Germany |
-| 2016- | Full Member, [Kiel Evolution Center](http://www.kec.uni-kiel.de), Kiel, Germany |
-
-#### Post-doctoral experience
-
-| 2014 - 2016 | 	Post doctoral researcher, New Zealand Institute for Advanced Study, Massey University, Auckland, New Zealand |
-| 2011 - 2014 |	Post doctoral researcher, Max Planck Institute for Evolutionary Biology, Plön, Germany |
-
-### Visiting researcher
- - Max Planck Institute for Anthropology, Leipzig, Germany
- - Kavli Institute for Theoretical Physics, Santa Barbara, U.S.A.
- - Santa Fe Institute, Santa Fe, U.S.A. 
- - National Centre For Biological Sciences, Bangalore, India 
- - Center for Cellular and Molecular Biology, Hyderabad, India
 
 ### Reviewing & Board memberships
 
