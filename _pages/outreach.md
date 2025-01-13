@@ -29,9 +29,6 @@ for a complete list check out [Talks](/talks/)
 
 #### Upcoming
 
-- 13th - 15th November 2024, Dutch Institute for Emergent Phenomena (DIEP), Amsterdam - "Pan narrans: collective narratives and cooperation"
-- January 2025, University of Köln
-
 
 ### Public talks in German
 

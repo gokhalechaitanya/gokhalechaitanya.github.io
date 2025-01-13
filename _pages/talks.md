@@ -193,3 +193,10 @@ Cancun, Mexico - Origins of life and Evolutionary games: Exploring the nonlinear
 - 19th June 2024 Max Planck Institute for Evolutionary Biology "Interdisciplinary Theoretical Biology"
 - 3th - 5th September 2024 NC3 Conference, the University of Münster "Temporal scaffolding: How ecology defines the individual"
 - 19th October 2024, Deutsche Studienstiftung, Würzburg Residenz Academy - "Population Transformation and Gene Drive"
+
+```
+2025
+```
+
+- 13th - 15th November 2024, Dutch Institute for Emergent Phenomena (DIEP), Amsterdam - "Pan narrans: collective narratives and cooperation"
+- 8-10th January 2025, University of Köln - "Pan narrans: collective narratives and cooperation"
