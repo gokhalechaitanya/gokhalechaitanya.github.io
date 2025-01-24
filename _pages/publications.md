@@ -49,7 +49,7 @@ John M. McNamara and Olof Leimar* for the International Society for Behavioural 
     2025
     ```
 
-0. Fic M., Bastian F., Miękisz J., and Gokhale, C.S. Compartment model of strategy-dependent time delays in replicator dynamics. *forthcoming - Journal of Theoretical Biology* [arXiv:2409.01116](https://arxiv.org/abs/2409.01116)
+0. Fic M., Bastian F., Miękisz J., and Gokhale, C.S. Compartment model of strategy-dependent time delays in replicator dynamics. *Journal of Theoretical Biology*, 601, 2025, 112044 [pdf](https://www.sciencedirect.com/science/article/pii/S0022519325000104?via%3Dihub) [arXiv:2409.01116](https://arxiv.org/abs/2409.01116) 
 0. Nguyen, P. L., & Gokhale, C.S. On multiple infections by parasites with complex life cycles. *OIKOS* [pdf](https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1111/oik.10493) [bioRxiv-2023.10.13.562184v1](https://www.biorxiv.org/content/10.1101/2023.10.13.562184v1)
 
     ```
