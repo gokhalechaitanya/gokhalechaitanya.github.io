@@ -29,6 +29,9 @@ for a complete list check out [Talks](/talks/)
 
 #### Upcoming
 
+- 11 Feb 2025, University of Konstanz
+- 8-21 March, Decisions Games and Evolution program at the ICTS, Bangalore, India
+
 
 ### Public talks in German
 
