@@ -28,9 +28,9 @@ header:
 
 #### Current positions
 
-| 2023- | Professor for Theoretical Biology, Center for Computational and Theoretical Biology, Würzburg |
-| 2016- | Group Leader, Max Planck Institute for Evolutionary Biology, Plön, Germany |
-| 2016- | Full Member, [Kiel Evolution Center](http://www.kec.uni-kiel.de), Kiel, Germany |
+| 2023- | (W2) Professor for Theoretical Biology, Center for Computational and Theoretical Biology, Würzburg |
+| 2016 - 2023 | Group Leader, Max Planck Institute for Evolutionary Biology, Plön, Germany |
+| 2016 - 2023  | Full Member, [Kiel Evolution Center](http://www.kec.uni-kiel.de), Kiel, Germany |
 
 #### Post-doctoral experience
 
