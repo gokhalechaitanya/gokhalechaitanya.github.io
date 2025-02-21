@@ -200,3 +200,4 @@ Cancun, Mexico - Origins of life and Evolutionary games: Exploring the nonlinear
 
 - 13th - 15th November 2024, Dutch Institute for Emergent Phenomena (DIEP), Amsterdam - "Pan narrans: collective narratives and cooperation"
 - 8-10th January 2025, University of Köln - "Pan narrans: collective narratives and cooperation"
+- 11 February 2025, "Timescales of response in the Anthropocene" University of Konstanz
