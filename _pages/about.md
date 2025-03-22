@@ -78,7 +78,7 @@ header:
 ### Reviewing & Board memberships
 
 - Society Board Member
-	- Mathematical Models in Ecology and Evolution
+	- [Mathematical Models in Ecology and Evolution](http://mmee.eu/index.html)
 - Editorial Board
 	- Scientific Reports
 	- PLoS Computational Biology
