@@ -77,6 +77,8 @@ header:
 
 ### Reviewing & Board memberships
 
+- Society Board Member
+	- Mathematical Models in Ecology and Evolution
 - Editorial Board
 	- Scientific Reports
 	- PLoS Computational Biology
