@@ -25,8 +25,8 @@ If the paper you are interested in is not freely available then drop me an email
 
 ## Preprints
 
-* Krishnan, N., Kun, Á., Gokhale C.S. and Garay, J. Early eukaryogenesis by host-initiated obligate ectosymbiosis and metabolic inhibition. [bioRxiv-2024.09.08.611858](https://www.biorxiv.org/content/10.1101/2024.09.08.611858v1.abstract)
-* Fic M., Bastian F., Miękisz J., and Gokhale, C.S. Compartment model of strategy-dependent time delays in replicator dynamics. [arXiv:2409.01116](https://arxiv.org/abs/2409.01116)
+* **Gokhale C.S.** and Traulsen, A. Higher-order equivalence of Lotka-Volterra and replicator dynamics [bioRxiv-2025.03.28.645916](https://www.biorxiv.org/content/10.1101/2025.03.28.645916v1)
+* Krishnan, N., Kun, Á., **Gokhale C.S.** and Garay, J. Early eukaryogenesis by host-initiated obligate ectosymbiosis and metabolic inhibition. [bioRxiv-2024.09.08.611858](https://www.biorxiv.org/content/10.1101/2024.09.08.611858v1.abstract)
 * Lauenroth, D., and **Gokhale, C. S.** Assessing the probability and time of weed control failure due to herbicide resistance evolution. [bioRxiv-2024.04.26.591266v1](https://www.biorxiv.org/content/10.1101/2024.04.26.591266v1)
 * Mikaberidze, A., **Gokhale, C. S.**, Bargués-Ribera, M., & Verma, P. Economic analysis of disease and control of multi-field epidemics in agriculture [bioRxiv-2023.09.05.556392](https://www.biorxiv.org/content/10.1101/2023.09.05.556392v1)
 * Athreya, G. S., **Gokhale, C. S.** & Verma, P. Antibiotic-mediated interactions underlying microbial diversity. (2023) [bioRxiv-2023.02.15.528676](https://doi.org/10.1101/2023.02.15.528676)
@@ -49,8 +49,8 @@ John M. McNamara and Olof Leimar* for the International Society for Behavioural 
     2025
     ```
 
-0. Fic M., Bastian F., Miękisz J., and Gokhale, C.S. Compartment model of strategy-dependent time delays in replicator dynamics. *Journal of Theoretical Biology*, 601, 2025, 112044 [pdf](https://www.sciencedirect.com/science/article/pii/S0022519325000104?via%3Dihub) [arXiv:2409.01116](https://arxiv.org/abs/2409.01116) 
-0. Nguyen, P. L., & Gokhale, C.S. On multiple infections by parasites with complex life cycles. *OIKOS* [pdf](https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1111/oik.10493) [bioRxiv-2023.10.13.562184v1](https://www.biorxiv.org/content/10.1101/2023.10.13.562184v1)
+0. Fic M., Bastian F., Miękisz J., and **Gokhale, C.S.** Compartment model of strategy-dependent time delays in replicator dynamics. *Journal of Theoretical Biology*, 601, 2025, 112044 [pdf](https://www.sciencedirect.com/science/article/pii/S0022519325000104?via%3Dihub) [arXiv:2409.01116](https://arxiv.org/abs/2409.01116) 
+0. Nguyen, P. L., & **Gokhale, C.S.** On multiple infections by parasites with complex life cycles. *OIKOS* [pdf](https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1111/oik.10493) [bioRxiv-2023.10.13.562184v1](https://www.biorxiv.org/content/10.1101/2023.10.13.562184v1)
 
     ```
     2024
