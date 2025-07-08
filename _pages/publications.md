@@ -49,14 +49,15 @@ John M. McNamara and Olof Leimar* for the International Society for Behavioural 
     2025
     ```
 
+0. W. Barfuss, J. Flack, C.S. Gokhale, L. Hammond, C. Hilbe, E. Hughes, J.Z. Leibo, T. Lenaerts, N. Leonard, S. Levin, U. Madhushani Sehwag, A. McAvoy, J.M. Meylahn, & F.P. Santos, Collective cooperative intelligence, *Proc. Natl. Acad. Sci.* U.S.A. 122 (25) e2319948121, [pdf](https://doi.org/10.1073/pnas.2319948121)
+0. Mikaberidze A, Gokhale CS, Bargués-Ribera M, Verma P (2025) The cost of fungicide resistance evolution in multi-field plant epidemics. *PLoS Sustain Transform* 4(6): e0000178. [pdf](https://doi.org/10.1371/journal.pstr.0000178)
 0. Fic M., Bastian F., Miękisz J., and **Gokhale, C.S.** Compartment model of strategy-dependent time delays in replicator dynamics. *Journal of Theoretical Biology*, 601, 2025, 112044 [pdf](https://www.sciencedirect.com/science/article/pii/S0022519325000104?via%3Dihub) [arXiv:2409.01116](https://arxiv.org/abs/2409.01116) 
 0. Nguyen, P. L., & **Gokhale, C.S.** On multiple infections by parasites with complex life cycles. *OIKOS* [pdf](https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1111/oik.10493) [bioRxiv-2023.10.13.562184v1](https://www.biorxiv.org/content/10.1101/2023.10.13.562184v1)
 
     ```
     2024
     ```
-
-0. Barfuss, W., Flack, J., **Gokhale, C. S.**, Hammond, L., Hilbe, C., Hughes, E., Leibog, J. Z., Lenaerts, T., Leonard, N., Levin, S., Sehwag, U. M., McAvoy, A., Meylahn, J. M., Santos, F. P., Collective cooperative Intelligence *forthcoming - PNAS* 
+ 
 0. Fic, M., **Gokhale, C. S.** Catalysing cooperation: the power of collective beliefs in structured populations. *npj Complexity* 1, 6 (2024).  [pdf](https://www.nature.com/articles/s44260-024-00005-z.pdf)
 0. Revathi Venkateswaran, V., **Gokhale, C. S.**, Mangel, M., and Eliassen, S., Effects of time spent in pregnancy or brooding on immunocompetence *Ecology & Evolution* 14,1 e10764 [pdf](https://onlinelibrary.wiley.com/doi/10.1002/ece3.10764)
 
