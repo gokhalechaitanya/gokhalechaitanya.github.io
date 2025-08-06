@@ -25,6 +25,7 @@ If the paper you are interested in is not freely available then drop me an email
 
 ## Preprints
 
+* Rajendra, D. and **Gokhale C.S.** Optimising play for learning risky behaviour [bioRxiv-2025.07.15.664889](https://doi.org/10.1101/2025.07.15.664889)
 * **Gokhale C.S.** and Traulsen, A. Higher-order equivalence of Lotka-Volterra and replicator dynamics [bioRxiv-2025.03.28.645916](https://www.biorxiv.org/content/10.1101/2025.03.28.645916v1)
 * Krishnan, N., Kun, Á., **Gokhale C.S.** and Garay, J. Early eukaryogenesis by host-initiated obligate ectosymbiosis and metabolic inhibition. [bioRxiv-2024.09.08.611858](https://www.biorxiv.org/content/10.1101/2024.09.08.611858v1.abstract)
 * Lauenroth, D., and **Gokhale, C. S.** Assessing the probability and time of weed control failure due to herbicide resistance evolution. [bioRxiv-2024.04.26.591266v1](https://www.biorxiv.org/content/10.1101/2024.04.26.591266v1)
