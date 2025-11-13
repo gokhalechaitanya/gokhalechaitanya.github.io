@@ -96,12 +96,12 @@ author:
   name             : "Chaitanya S. Gokhale"
   avatar           : "/assets/images/gokhale.jpg"
   bio              : "Theorist. Hiker. Likes it cold."
-  location         : "Plön, Germany"
+  location         : "Würzburg, Germany"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto: gokhale [a.t] evolbio [d.o.t] mpg [d.o.t] de"
+      url: "mailto: chaitanya [d.o.t] gokhale [a.t] uni [dash] wuerzburg [d.o.t] de"
     - label: "T-Eco-Evo Group Website"
       icon: "fas fa-fw fa-link"
       url: "https://tecoevo.github.io"
