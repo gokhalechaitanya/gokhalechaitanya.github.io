@@ -29,7 +29,7 @@ for a complete list check out [Talks](/talks/)
 
 #### Upcoming
 
-- 8-21 March, Decisions Games and Evolution program at the ICTS, Bangalore, India
+- 19-23 January 2026 The Arctic Meeting for Adaptive Mechanisms in Biological Systems
 
 
 ### Public talks in German
