@@ -205,3 +205,10 @@ Cancun, Mexico - Origins of life and Evolutionary games: Exploring the nonlinear
 - 11 September 2025, Dynamics of interacting
 populations and beyond, Travemünde, Germany - "On the origins and evolution of endosymbiosis"
 - 3 October 2025, Alma Dal Co School on Collective Behaviour, Venice, Italy - "Pan narrans | Collective narrative and cooperation"
+
+
+```
+2026
+```
+
+- 18th - 23th January 2026, Abisko- The Arctic Meeting for Adaptive Mechanisms in Biological Systems - "Trust is not enough"
