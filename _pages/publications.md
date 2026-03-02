@@ -25,13 +25,10 @@ If the paper you are interested in is not freely available then drop me an email
 
 ## Preprints
 
-* Rajendra, D. and **Gokhale C.S.** Optimising play for learning risky behaviour [bioRxiv-2025.07.15.664889](https://doi.org/10.1101/2025.07.15.664889)
-* **Gokhale C.S.** and Traulsen, A. Higher-order equivalence of Lotka-Volterra and replicator dynamics [bioRxiv-2025.03.28.645916](https://www.biorxiv.org/content/10.1101/2025.03.28.645916v1)
-* Krishnan, N., Kun, Á., **Gokhale C.S.** and Garay, J. Early eukaryogenesis by host-initiated obligate ectosymbiosis and metabolic inhibition. [bioRxiv-2024.09.08.611858](https://www.biorxiv.org/content/10.1101/2024.09.08.611858v1.abstract)
+* Lagos-Oviedo, J.J., Rajendra, D and **Gokhale, C. S.** and Schmitt, T and Frank, E.T., Evolution of first aid and social wound care in an army ant society [bioRxiv-2025.09.22.677721](https://www.biorxiv.org/content/10.1101/2025.09.22.677721v1)
+* **Gokhale, C. S.** and Traulsen, A. Higher-order equivalence of Lotka-Volterra and replicator dynamics [bioRxiv-2025.03.28.645916](https://www.biorxiv.org/content/10.1101/2025.03.28.645916v1)
+* Krishnan, N., Kun, Á., **Gokhale, C. S.** and Garay, J. Early eukaryogenesis by host-initiated obligate ectosymbiosis and metabolic inhibition. [bioRxiv-2024.09.08.611858](https://www.biorxiv.org/content/10.1101/2024.09.08.611858v1.abstract)
 * Lauenroth, D., and **Gokhale, C. S.** Assessing the probability and time of weed control failure due to herbicide resistance evolution. [bioRxiv-2024.04.26.591266v1](https://www.biorxiv.org/content/10.1101/2024.04.26.591266v1)
-* Mikaberidze, A., **Gokhale, C. S.**, Bargués-Ribera, M., & Verma, P. Economic analysis of disease and control of multi-field epidemics in agriculture [bioRxiv-2023.09.05.556392](https://www.biorxiv.org/content/10.1101/2023.09.05.556392v1)
-* Athreya, G. S., **Gokhale, C. S.** & Verma, P. Antibiotic-mediated interactions underlying microbial diversity. (2023) [bioRxiv-2023.02.15.528676](https://doi.org/10.1101/2023.02.15.528676)
-* Patil, S., Nöbel, S. & **Gokhale, C. S.** Impact of female mate copying on male morph dynamics [bioRxiv-12022.09.13.507757](https://doi.org/10.1101/2022.09.13.507757)
 * Suswaram, D., Yeakel, J.D. and **Gokhale, C. S.** Parasitoid pressures and silence evolution [bioRxiv-12.503800](https://doi.org/10.1101/2022.08.12.503800)
 * Bargués-Ribera, M., Reeves, R.G., **Gokhale, C. S.**, Eco-evolutionary dynamics of Plasmodium genotypes under mass drug administration, [bioRxiv-818039](https://doi.org/10.1101/818039)
 * Rabajante, J.F., Anzia, E.L., **Gokhale, C. S.**, On a mechanistic process of macroparasite aggregation, [bioRxiv-680041](https://doi.org/10.1101/680041)
@@ -47,25 +44,34 @@ John M. McNamara and Olof Leimar* for the International Society for Behavioural 
 ### Journal articles
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     ```
+    2026
+    ```
+    
+0. Patil, S., Nöbel, S., & **Gokhale, C. S.** Phenotypic polymorphism via mate copying, *Proc. Natl. Acad. Sci.* U.S.A. 123 (9) e2510849123, [https://doi.org/10.1073/pnas.2510849123](https://doi.org/10.1073/pnas.2510849123)
+0. Rajendra,D., **Gokhale, C. S.** Optimizing play for learning risky behaviour. Proc. Roy. Soc. Biol. Sci. 2026; 293 (2065): 20253111. [https://doi.org/10.1098/rspb.2025.3111](https://royalsocietypublishing.org/rspb/article/doi/10.1098/rspb.2025.3111/480463/Optimizing-play-for-learning-risky-behaviour?guestAccessKey=9009eb0a-530b-4fad-9c97-e4bda6911e95)
+
+    ```
     2025
     ```
 
-0. W. Barfuss, J. Flack, C.S. Gokhale, L. Hammond, C. Hilbe, E. Hughes, J.Z. Leibo, T. Lenaerts, N. Leonard, S. Levin, U. Madhushani Sehwag, A. McAvoy, J.M. Meylahn, & F.P. Santos, Collective cooperative intelligence, *Proc. Natl. Acad. Sci.* U.S.A. 122 (25) e2319948121, [pdf](https://doi.org/10.1073/pnas.2319948121)
-0. Mikaberidze A, Gokhale CS, Bargués-Ribera M, Verma P (2025) The cost of fungicide resistance evolution in multi-field plant epidemics. *PLoS Sustain Transform* 4(6): e0000178. [pdf](https://doi.org/10.1371/journal.pstr.0000178)
-0. Fic M., Bastian F., Miękisz J., and **Gokhale, C.S.** Compartment model of strategy-dependent time delays in replicator dynamics. *Journal of Theoretical Biology*, 601, 2025, 112044 [pdf](https://www.sciencedirect.com/science/article/pii/S0022519325000104?via%3Dihub) [arXiv:2409.01116](https://arxiv.org/abs/2409.01116) 
-0. Nguyen, P. L., & **Gokhale, C.S.** On multiple infections by parasites with complex life cycles. *OIKOS* [pdf](https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1111/oik.10493) [bioRxiv-2023.10.13.562184v1](https://www.biorxiv.org/content/10.1101/2023.10.13.562184v1)
+0. Athreya, G. S., **Gokhale, C. S.** & Verma, P. Antibiotic-mediated interactions underlying microbial diversity. *PLoS Computational Biology* *forthcoming* [bioRxiv-2023.02.15.528676](https://doi.org/10.1101/2023.02.15.528676)
+0. Arango, A., Peters, M.K. & **Gokhale, C. S.** (2025), History, climate, and competition shape ecological specialization in the Emberizoidea radiation. *J Avian Biol*, 2025: e03506. [https://doi.org/10.1002/jav.03506](https://doi.org/10.1002/jav.03506)
+0. Athreya, G. S., Czuppon, P. & **Gokhale, C. S.** The evolution of dependence and cohesion in incipient endosymbioses. *The American Naturalist* (2025) [link](https://doi.org/10.1086/737588)
+0. W. Barfuss, J. Flack, **Gokhale, C. S.**, L. Hammond, C. Hilbe, E. Hughes, J.Z. Leibo, T. Lenaerts, N. Leonard, S. Levin, U. Madhushani Sehwag, A. McAvoy, J.M. Meylahn, & F.P. Santos, Collective cooperative intelligence, *Proc. Natl. Acad. Sci.* U.S.A. 122 (25) e2319948121, [pdf](https://doi.org/10.1073/pnas.2319948121)
+0. Mikaberidze A, **Gokhale, C. S.**, Bargués-Ribera M, Verma P (2025) The cost of fungicide resistance evolution in multi-field plant epidemics. *PLoS Sustain Transform* 4(6): e0000178. [pdf](https://doi.org/10.1371/journal.pstr.0000178)
+0. Fic M., Bastian F., Miękisz J., and **Gokhale, C. S.** Compartment model of strategy-dependent time delays in replicator dynamics. *Journal of Theoretical Biology*, 601, 2025, 112044 [pdf](https://www.sciencedirect.com/science/article/pii/S0022519325000104?via%3Dihub) [arXiv:2409.01116](https://arxiv.org/abs/2409.01116) 
+0. Nguyen, P. L., & **Gokhale, C. S.** On multiple infections by parasites with complex life cycles. *OIKOS* [pdf](https://nsojournals.onlinelibrary.wiley.com/doi/epdf/10.1111/oik.10493) [bioRxiv-2023.10.13.562184v1](https://www.biorxiv.org/content/10.1101/2023.10.13.562184v1)
 
     ```
     2024
     ```
- 
+
 0. Fic, M., **Gokhale, C. S.** Catalysing cooperation: the power of collective beliefs in structured populations. *npj Complexity* 1, 6 (2024).  [pdf](https://www.nature.com/articles/s44260-024-00005-z.pdf)
 0. Revathi Venkateswaran, V., **Gokhale, C. S.**, Mangel, M., and Eliassen, S., Effects of time spent in pregnancy or brooding on immunocompetence *Ecology & Evolution* 14,1 e10764 [pdf](https://onlinelibrary.wiley.com/doi/10.1002/ece3.10764)
 
     ```
     2023
     ```
-
 0. **Gokhale, C. S.**, Rainey, P. B., and Frean, M., Eco-evolutionary logic of mutualisms, *Dynamic Games and Applications* [pdf](https://rdcu.be/dpFq4)
 0. Lauenroth, D., and **Gokhale, C. S.** Theoretical assessment of persistence and adaptation in weeds with complex life cycles, *Nature Plants* 9, 1267-1279 [bioRxiv-12.503772](https://doi.org/10.1101/2022.08.12.503772)
 0. **Gokhale, C. S.**, and Sharma, N. 2023 Optimising crop rotations via Parrondo's paradox for sustainable agriculture. *Royal Society Open Science* 10:221401 [Royal Soc. Open Science](https://royalsocietypublishing.org/doi/10.1098/rsos.221401)
