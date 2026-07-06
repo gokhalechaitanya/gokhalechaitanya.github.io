@@ -29,7 +29,7 @@ for a complete list check out [Talks](/talks/)
 
 #### Upcoming
 
-- 19-23 January 2026 The Arctic Meeting for Adaptive Mechanisms in Biological Systems
+- 17 September 2026, Central Research Institute of Physics, Budapest "Xeno-cooperation in biology and beyond"
 
 
 ### Public talks in German

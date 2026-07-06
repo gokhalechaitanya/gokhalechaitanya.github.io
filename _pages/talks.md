@@ -212,3 +212,5 @@ populations and beyond, Travemünde, Germany - "On the origins and evolution of 
 ```
 
 - 18th - 23th January 2026, Abisko- The Arctic Meeting for Adaptive Mechanisms in Biological Systems - "Trust is not enough"
+- 26 June 2026, LIPME Toulouse, France - "Evolutionary, ecological and economic approach to sustainable agriculture"
+- 29th June 2026, TULIP Summer School Germ, France - "Pan narrans | Collective narratives and cooperation"
